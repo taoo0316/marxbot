@@ -1,0 +1,1394 @@
+1
+Politics as a Vocation
+Max Weber
+THIS lecture, which I give at your request, will necessarily disappoint you in a number of ways. You will
+naturally expect me to take a position on actual problems of the day. But that will be the case only in a
+purely formal way and toward the end, when I shall raise certain questions concerning the significance of
+political action in the whole way of life. In today's lecture, all questions that refer to what policy and what
+content one should give one's political activity must be eliminated. For such questions have nothing to do
+with the general question of what politics as a vocation means and what it can mean. Now to our subject
+matter.
+What do we understand by politics? The concept is extremely broad and comprises any kind of independent
+leadership in action. One speaks of the currency policy of the banks, of the discounting policy of the
+Reichsbank, of the strike policy of a trade union; one may speak of the educational policy of a municipality
+or a township, of the policy of the president of a voluntary association, and, finally, even of the policy of a
+prudent wife who seeks to guide her husband. Tonight, our reflections are, of course, not based upon such a
+broad concept. We wish to understand by politics only the leadership, or the influencing of the leadership,
+of a political association, hence today, of a state.
+But what is a 'political' association from the sociological point of view? What is a 'state'? Sociologically,
+the state cannot be defined in terms of its ends. There is scarcely any task that some political association
+has not taken in hand, and there is no task that one could say has always been exclusive and peculiar to
+those associations which are designated as political ones: today the state, or historically, those associations
+which have been the predecessors of the modern state. Ultimately, one can define the modern state
+sociologically only in terms of the specific means peculiar to it, as to every political association, namely,
+the use of physical force.
+'Every state is founded on force,' said Trotsky at Brest-Litovsk. That is indeed right. If no social institutions
+existed which knew the use of violence, then the concept of 'state' would be eliminated, and a condition
+would emerge that could be designated as 'anarchy,' in the specific sense of this word. Of course, force is
+certainly not the normal or the only means of the state--nobody says that--but force is a means specific to
+the state. Today the relation between the state and violence is an especially intimate one. In the past, the
+most varied institutions--beginning with the sib--have known the use of physical force as quite normal.
+Today, however, we have to say that a state is a human community that (successfully) claims the monopoly
+of the legitimate use of physical force within a given territory. Note that 'territory' is one of the
+characteristics of the state. Specifically, at the present time, the right to use physical force is ascribed to
+other institutions or to individuals only to the extent to which the state permits it. The state is considered
+the sole source of the 'right' to use violence. Hence, 'politics' for us means striving to share power or
+striving to influence the distribution of power, either among states or among groups within a state.
+This corresponds essentially to ordinary usage. When a question is said to be a 'political' question, when a
+cabinet minister or an official is said to be a 'political' official, or when a decision is said to be 'politically'
+determined, what is always meant is that interests in the distribution, maintenance, or transfer of power are
+decisive for answering the questions and determining the decision or the official's sphere of activity. He
+who is active in politics strives for power either as a means in serving other aims, ideal or egoistic, or as
+'power for power's sake,' that is, in order to enjoy the prestige-feeling that power gives.
+Like the political institutions historically preceding it, the state is a relation of men dominating men, a
+relation supported by means of legitimate (i.e. considered to be legitimate) violence. If the state is to exist,
+the dominated must obey the authority claimed by the powers that be. When and why do men obey? Upon
+what inner justifications and upon what external means does this domination rest?
+2
+To begin with, in principle, there are three inner justifications, hence basic legitimations of domination.
+First, the authority of the 'eternal yesterday,' i.e. of the mores sanctified through the unimaginably ancient
+recognition and habitual orientation to conform. This is 'traditional' domination exercised by the patriarch
+and the patrimonial prince of yore.
+There is the authority of the extraordinary and personal gift of grace (charisma), the absolutely personal
+devotion and personal confidence in revelation, heroism, or other qualities of individual leadership. This is
+'charismatic' domination, as exercised by the prophet or--in the field of politics--by the elected war lord, the
+plebiscitarian ruler, the great demagogue, or the political party leader.
+Finally, there is domination by virtue of 'legality,' by virtue of the belief in the validity of legal statute and
+functional 'competence' based on rationally created rules. In this case, obedience is expected in discharging
+statutory obligations. This is domination as exercised by the modern 'servant of the state' and by all those
+bearers of power who in this respect resemble him.
+It is understood that, in reality, obedience is determined by highly robust motives of fear and hope--fear of
+the vengeance of magical powers or of the power-holder, hope for reward in this world or in the beyond--
+and besides all this, by interests of the most varied sort. Of this we shall speak presently. However, in
+asking for the 'legitimations' of this obedience, one meets with these three 'pure' types: 'traditional,'
+'charismatic,' and 'legal.'
+These conceptions of legitimacy and their inner justifications are of very great significance for the structure
+of domination. To be sure, the pure types are rarely found in reality. But today we cannot deal with the
+highly complex variant, transitions, and combinations of these pure types, which problems belong to
+'political science.' Here we are interested above all in the second of these types: domination by virtue of the
+devotion of those who obey the purely personal 'charisma' of the 'leader.' For this is the root of the idea of a
+calling in its highest expression.
+Devotion to the charisma of the prophet, or the leader in war, or to the great demagogue in the ecclesia or
+in parliament, means that the leader is personally recognized as the innerly 'called' leader of men. Men do
+not obey him by virtue of tradition or statute, but because they believe in him. If he is more than a narrow
+and vain upstart of the moment, the leader lives for his cause and 'strives for his work.' The devotion of his
+disciples, his followers, his personal party friends is oriented to his person and to its qualities.
+Charismatic leadership has emerged in all places and in all historical epochs. Most importantly in the past,
+it has emerged in the two figures of the magician and the prophet on the one hand, and in the elected war
+lord, the gang leader and condotierre on the other hand. Political leadership in the form of the free
+'demagogue' who grew from the soil of the city state is of greater concern to us; like the city state, the
+demagogue is peculiar to the Occident and especially to Mediterranean culture. Furthermore, political
+leadership in the form of the parliamentary 'party leader' has grown on the soil of the constitutional state,
+which is also indigenous only to the Occident.
+These politicians by virtue of a 'calling,' in the most genuine sense of the word, are of course nowhere the
+only decisive figures in the cross-currents of the political struggle for power. The sort of auxiliary means
+that are at their disposal is also highly decisive. How do the politically dominant powers manage to
+maintain their domination? The question pertains to any kind of domination, hence also to political
+domination in all its forms, traditional as well as legal and charismatic.
+Organized domination, which calls for continuous administration, requires that human conduct be
+conditioned to obedience towards those masters who claim to be the bearers of legitimate power. On the
+other hand, by virtue of this obedience, organized domination requires the control of those material goods
+which in a given case are necessary for the use of physical violence. Thus, organized domination requires
+control of the personal executive staff and the material implements of administration.
+3
+The administrative staff, which externally represents the organization of political domination, is, of course,
+like any other organization, bound by obedience to the power-holder and not alone by the concept of
+legitimacy, of which we have just spoken. There are two other means, both of which appeal to personal
+interests: material reward and social honor. The fiefs of vassals, the prebends of patrimonial officials, the
+salaries of modern civil servants, the honor of knights, the privileges of estates, and the honor of the civil
+servant comprise their respective wages. The fear of losing them is the final and decisive basis for
+solidarity between the executive staff and the power-holder. There is honor and booty for the followers in
+war; for the demagogue's following, there are 'spoils'--that is, exploitation of the dominated through the
+monopolization of office--and there are politically determined profits and premiums of vanity. All of these
+rewards are also derived from the domination exercised by a charismatic leader.
+To maintain a dominion by force, certain material goods are required, just as with an economic
+organization. All states may be classified according to whether they rest on the principle that the staff of
+men themselves own the administrative means, or whether the staff is 'separated' from these means of
+administration. This distinction holds in the same sense in which today we say that the salaried employee
+and the proletarian in the capitalistic enterprise are 'separated' from the material means of production. The
+power-holder must be able to count on the obedience of the staff members, officials, or whoever else they
+may be. The administrative means may consist of money, building, war material, vehicles, horses, or
+whatnot. The question is whether or not the power-holder himself directs and organizes the administration
+while delegating executive power to personal servants, hired officials, or personal favorites and confidants,
+who are non-owners, i.e. who do not use the material means of administration in their own right but are
+directed by the lord. The distinction runs through all administrative organizations of the past.
+These political associations in which the material means of administration are autonomously controlled,
+wholly or partly, by the dependent administrative staff may be called associations organized in 'estates.'
+The vassal in the feudal association, for instance, paid out of his own pocket for the administration and
+judicature of the district enfeoffed to him. He supplied his own equipment and provisions for war, and his
+subvassals did likewise. Of course, this had consequences for the lord's position of power, which only
+rested upon a relation of personal faith and upon the fact that the legitimacy of his possession of the fief
+and the social honor of the vassal were derived from the overlord.
+However, everywhere, reaching back to the earliest political formations, we also find the lord himself
+directing the administration. He seeks to take the administration into his own hands by having men
+personally dependent upon him: slaves, household officials, attendants, personal 'favorites,' and
+prebendaries enfeoffed in kind or in money from his magazines. He seeks to defray the expenses from his
+own pocket, from the revenues of his patrimonium; and he seeks to create an army which is dependent
+upon him personally because it is equipped and provisioned out of his granaries, magazines, and armories.
+In the association of 'estates,' the lord rules with the aid of an autonomous 'aristocracy' and hence shares his
+domination with it; the lord who personally administers is supported either by members of his household or
+by plebeians. These are propertyless strata having no social honor of their own; materially, they are
+completely chained to him and are not backed up by any competing power of their own. All forms of
+patriarchal and patrimonial domination, Sultanist despotism, and bureaucratic states belong to this latter
+type. The bureaucratic state order is especially important; m its most rational development, it is precisely
+characteristic of the modern state.
+Everywhere the development of the modern state is initiated through the action of the prince. He paves the
+way for the expropriation of the autonomous and 'private' bearers of executive power who stand beside
+him, of those who in their own right possess the means of administration, warfare, and financial
+organization, as well as politically usable goods of all sorts. The whole process is a complete parallel to the
+development of the capitalist enterprise through gradual expropriation of the independent producers. In the
+end, the modern state controls the total means of political organization, which actually come together under
+a single head. No single official personally owns the money he pays out, or the buildings, stores, tools, and
+war machines he controls. In the contemporary 'state'--and this is essential for the concept of state--the
+'separation' of the administrative staff, of the administrative officials, and of the workers from the material
+means of administrative organization is completed. Here the most modern development begins, and we see
+4
+with our own eyes the attempt to inaugurate the expropriation of this expropriator of the political means,
+and therewith of political power.
+The revolution [of Germany, 1918] has accomplished, at least in so far as leaders have taken the place of
+the statutory authorities, this much: the leaders, through usurpation or election, have attained control over
+the political staff and the apparatus of material goods; and they deduce their legitimacy--no matter with
+what right--from the will of the governed. Whether the leaders, on the basis of this at least apparent
+success, can rightfully entertain the hope of also carrying through the expropriation within the capitalist
+enterprises is a different question. The direction of capitalist enterprises, despite far-reaching analogies,
+follows quite different laws than those of political administration.
+Today we do not take a stand on this question. I state only the purely conceptual aspect for our
+consideration: the modern state is a compulsory association which organizes domination. It has been
+successful in seeking to monopolize the legitimate use of physical force as a means of domination within a
+territory. To this end the state has combined the material means of organization in the hands of its leaders,
+and it has expropriated all autonomous functionaries of estates who formerly controlled these means in
+their own right. The state has taken their positions and now stands in the top place.
+During this process of political expropriation, which has occurred with varying success in all countries on
+earth, 'professional politicians' in another sense have emerged. They arose first in the service of a prince.
+They have been men who, unlike the charismatic leader, have not wished to be lords themselves, but who
+have entered the service of political lords In the struggle of expropriation, they placed themselves at the
+princes; disposal and by managing the princes' politics they earned, on the one hand, a living and, on the
+other hand, an ideal content of life. Again it is only in the Occident that we find this kind of professional
+politician in the service of powers other than the princes. In the past, they have been the most important
+power instrument of the prince and his instrument of political expropriation.
+Before discussing 'professional politicians' in detail, let us clarify in all its aspects the state of affairs their
+existence presents. Politics, just as economic pursuits, may be a man's avocation or his vocation. One may
+engage in politics, and hence seek to influence the distribution of power within and between political
+structures, as an 'occasional' politician. We are all 'occasional' politicians when we cast our ballot or
+consummate a similar expression of intention, such as applauding or protesting in a 'political' meeting, or
+delivering a 'political' speech, etc. The whole relation of many people to politics is restricted to this. Politics
+as an avocation is today practiced by all those party agents and heads of voluntary political associations
+who, as a rule, are politically active only in case of need and for whom politics is, neither materially nor
+ideally, 'their life' in the first place. The same holds for those members of state counsels and similar
+deliberative bodies that function only when summoned. It also holds for rather broad strata of our members
+of parliament who are politically active only during sessions. In the past, such strata were found especially
+among the estates. Proprietors of military implements in their own right, or proprietors of goods important
+for the administration, or proprietors of personal prerogatives may be called 'estates.' A large portion of
+them were far from giving their lives wholly, or merely preferentially, or more than occasionally, to the
+service of politics. Rather, they exploited their prerogatives in the interest of gaining rent or even profits;
+and they became active in the service of political associations only when the overlord of their status-equals
+especially demanded it. It was not different in the case of some of the auxiliary forces which the prince
+drew into the struggle for the creation of a political organization to be exclusively at his disposal. This was
+the nature of the Rate von Haus aus [councilors] and, still further back, of a considerable part of the
+councilors assembling in the 'Curia' and other deliberating bodies of the princes. But these merely
+occasional auxiliary forces engaging in politics on the side were naturally not sufficient for the prince. Of
+necessity, the prince sought to create a staff of helpers dedicated wholly and exclusively to serving him,
+hence making this their major vocation. The structure of the emerging dynastic political organization, and
+not only this but the whole articulation of the culture, depended to a considerable degree upon the question
+of where the prince recruited agents.
+A staff was also necessary for those political associations whose members constituted themselves
+politically as (so-called) 'free' communes under the complete abolition or the far-going restriction of
+princely power.
+5
+They were 'free' not in the sense of freedom from domination by force, but in the sense that princely power
+legitimized by tradition (mostly religiously sanctified) as the exclusive source of all authority was absent.
+These communities have their historical home in the Occident. Their nucleus was the city as a body politic,
+the form in which the city first emerged in the Mediterranean culture area. In all these cases, what did the
+politicians who made politics their major vocation look like?
+There are two ways of making politics one's vocation: Either one lives 'for' politics or one lives 'off'
+politics. By no means is this contrast an exclusive one. The rule is, rather, that man does both, at least in
+thought, and certainly he also does both in practice. He who lives 'for' politics makes politics his life, in an
+internal sense. Either he enjoys the naked possession of the power he exerts, or he nourishes his inner
+balance and self-feeling by the consciousness that his life has meaning in the service of a 'cause.' In this
+internal sense, every sincere man who lives for a cause also lives off this cause. The distinction hence refers
+to a much more substantial aspect of the matter, namely, to the economic. He who strives to make politics a
+permanent source of income lives 'off' politics as a vocation, whereas he who does not do this lives 'for'
+politics. Under the dominance of the private property order, some--if you wish-- very trivial preconditions
+must exist in order for a person to be able to live 'for' politics in this economic sense. Under normal
+conditions, the politician must be economically independent of the income politics can bring him. This
+means, quite simply, that the politician must be wealthy or must have a personal position in life which
+yields a sufficient income.
+This is the case, at least in normal circumstances. The war lord's following is just as little concerned about
+the conditions of a normal economy as is the street crowd following of the revolutionary hero. Both live off
+booty, plunder, confiscations, contributions, and the imposition of worthless and compulsory means of
+tender, which in essence amounts to the same thing. But necessarily, these are extraordinary phenomena. In
+everyday economic life, only some wealth serves the purpose of making a man economically independent.
+Yet this alone does not suffice. The professional politician must also be economically 'dispensable,' that is,
+his income must not depend upon the fact that he constantly and personally places his ability and thinking
+entirely, or at least by far predominantly, in the service of economic acquisition. In the most unconditional
+way, the rentier is dispensable in this sense. Hence, he is a man who receives completely unearned income.
+He may be the territorial lord of the past or the large landowner and aristocrat of the present who receives
+ground rent. In Antiquity and the Middle Ages they who received slave or serf rents or in modern times
+rents from shares or bonds or similar sources--these are rentiers.
+Neither the worker nor--and this has to be noted well--the entrepreneur, especially the modern, large-scale
+entrepreneur, is economically dispensable in this sense. For it is precisely the entrepreneur who is tied to
+his enterprise and is therefore not dispensable. This holds for the entrepreneur in industry far more than for
+the entrepreneur in agriculture, considering the seasonal character of agriculture. In the main, it is very
+difficult for the entrepreneur to be represented in his enterprise by someone else, even temporarily. He is as
+little dispensable as is the medical doctor, and the more eminent and busy he is the less dispensable he is.
+For purely organizational reasons, it is easier for the lawyer to be dispensable; and therefore the lawyer has
+played an incomparably greater, and often even a dominant, role as a professional politician. We shall not
+continue in this classification; rather let us clarify some of its ramifications.
+The leadership of a state or of a party by men who (in the economic sense of the word) live exclusively for
+politics and not off politics means necessarily a 'plutocratic' recruitment of the leading political strata. To
+be sure, this does not mean that such plutocratic leadership signifies at the same time that the politically
+dominant strata will not also seek to live 'off' politics, and hence that the dominant stratum will not usually
+exploit their political domination in their own economic interest. All that is unquestionable, of course.
+There has never been such a stratum that has not somehow lived 'off' politics. Only this is meant: that the
+professional politician need not seek remuneration directly for his political work, whereas every politician
+without means must absolutely claim this. On the other hand, we do not mean to say that the propertyless
+politician will pursue private economic advantages through politics, exclusively, or even predominantly.
+Nor do we mean that he will not think, in the first place, of 'the subject matter.' Nothing would be more
+incorrect. According to all experience, a care for the economic 'security' of his existence is consciously or
+unconsciously a cardinal point in the whole life orientation of the wealthy man. A quite reckless and
+6
+unreserved political idealism is found if not exclusively at least predominantly among those strata who by
+virtue of their propertylessness stand entirely outside of the strata who are interested in maintaining the
+economic order of a given society. This holds especially for extraordinary and hence revolutionary epochs.
+A non-plutocratic recruitment of interested politicians, of leadership and following, is geared to the selfunderstood precondition that regular and reliable income will accrue to those who manage politics.
+Either politics can be conducted 'honorifically' and then, as one usually says, by 'independent,' that is, by
+wealthy, men, and especially by rentiers. Or, political leadership is made accessible to propertyless men
+who must then be rewarded. The professional politician who lives 'off' politics may be a pure 'prebendary'
+or a salaried 'official.' Then the politician receives either income from fees and perquisites for specific
+services--tips and bribes are only an irregular and formally illegal variant of this category of income-- or a
+fixed income in kind, a money salary, or both. He may assume the character of an 'entrepreneur,' like the
+condottiere or the holder of a farmed-- out or purchased office, or like the American boss who considers his
+costs a capital investment which he brings to fruition through exploitation of his influence. Again, he may
+receive a fixed wage, like a journalist, a party secretary, a modern cabinet minister, or a political official.
+Feudal fiefs, land grants, and prebends of all sorts have been typical, in the past. With the development of
+the money economy, perquisites and prebends especially are the typical rewards for the following of
+princes, victorious conquerors, or successful party chiefs. For loyal services today, party leaders give
+offices of all sorts --in parties, newspapers, co-operative societies, health insurance, municipalities, as well
+as in the state. All party struggles are struggles for the patronage of office, as well as struggles for objective
+goals.
+In Germany, all struggles between the proponents of local and of central government are focused upon the
+question of which powers shall control the patronage of office, whether they are of Berlin, Munich,
+Karlsruhe, or Dresden. Setbacks in participating in offices are felt more severely by parties than is action
+against their objective goals. In France, a turnover of prefects because of party politics has always been
+considered a greater transformation and has always caused a greater uproar than a modification in the
+government's program--the latter almost having the significance of mere verbiage. Some parties, especially
+those in America since the disappearance of the old conflicts concerning the interpretation of the
+constitution, have become pure patronage parties handing out jobs and changing their material program
+according to the chances of grabbing votes.
+In Spain, up to recent years, the two great parties, in a conventionally fixed manner, took turns in office by
+means of 'elections,' fabricated from above, in order to provide their followers with offices. In the Spanish
+colonial territories, in the so-called 'elections,' as well as in the so-called 'revolutions,' what was at stake
+was always the state bread-basket from which the victors wished to be fed.
+In Switzerland, the parties peacefully divided the offices among themselves proportionately, and some of
+our 'revolutionary' constitutional drafts, for instance the first draft of the Badenian constitution, sought to
+extend this system to ministerial positions. Thus, the state and state offices were considered as pure
+institutions for the provision of spoilsmen.
+Above all, the Catholic Center party was enthusiastically for this draft. In Badenia, the party, as part of the
+party platform, made the distribution of offices proportional to confessions and hence without regard to
+achievement. This tendency becomes stronger for all parties when the number of offices increase as a result
+of general bureaucratization and when the demand for offices increases because they represent specifically
+secure livelihoods. For their followings, the parties become more and more a means to the end of being
+provided for in this manner.
+The development of modern officialdom into a highly qualified, professional labor force, specialized in
+expertness through long years of preparatory training, stands opposed to all these arrangements. Modern
+bureaucracy in the interest of integrity has developed a high sense of status honor; without this sense the
+danger of an awful corruption and a vulgar Philistinism threatens fatally. And without such integrity, even
+the purely technical functions of the state apparatus would be endangered. The significance of the state
+apparatus for the economy has been steadily rising, especially with increasing socialization, and its
+significance will be further augmented.
+7
+In the United States, amateur administration through booty politicians in accordance with the outcome of
+presidential elections resulted in the exchange of hundreds of thousands of officials, even down to the mail
+carrier. The administration knew nothing of the professional civil-servant-for-life, but this amateur
+administration has long since been punctured by the Civil Service Reform. Purely technical, irrefrageable
+needs of the administration have determined this development.
+In Europe, expert officialdom, based on the division of labor, has emerged in a gradual development of half
+a thousand years. The Italian cities and seigniories were the beginning, among the monarchies, and the
+states of the Norman conquerors. But the decisive step was taken in connection with the administration of
+the finances of the prince. With the administrative reforms of Emperor Max, it can be seen how hard it was
+for the officials to depose successfully of the prince in this field, even under the pressure of extreme
+emergency and of Turkish rule. The sphere of finance could afford least of all a ruler's dilettantism--a ruler
+who at that time was still above all a knight. The development of war technique called forth the expert and
+specialized officer; the differentiation of legal procedure called forth the trained jurist. In these three areas--
+finance, war, and law--expert officialdom in the more advanced states was definitely triumphant during the
+sixteenth century. With the ascendancy of princely absolutism over the estates, there was simultaneously a
+gradual abdication of the prince's autocratic rule in favor of an expert officialdom. These very officials had
+only facilitated the prince's victory over the estates.
+The development of the 'leading politicians' was realized along with the ascendancy of the specially trained
+officialdom, even if in far less noticeable transitions. Of course, such really decisive advisers of the princes
+have existed at all times and all over the world. In the Orient, the need for relieving the Sultan as far as
+possible from personal responsibility for the success of the government has created the typical figure of the
+'Grand Vizier.' In the Occident, influenced above all by the reports of the Venetian legates, diplomacy first
+became a consciously cultivated art in the age of Charles V, in Machiavelli's time. The reports of the
+Venetian legates were read with passionate zeal in expert diplomatic circles. The adepts of this art, who
+were in the main educated humanistically, treated one another as trained initiates, similar to the humanist
+Chinese statesmen in the last period of the 'warring states. The necessity of a formally unified guidance of
+the whole policy, including that of home affairs, by a leading statesman finally and compellingly arose only
+through constitutional development. Of course, individual personalities, such as advisers of the princes, or
+rather, in fact, leaders, had again and again existed before then. But the organization of administrative
+agencies even in the most advanced states first proceeded along other avenues. Top collegial administrative
+agencies had emerged. In theory, and to a gradually decreasing extent in fact, they met under the personal
+chairmanship of the prince who rendered the decision. This collegial system led to memoranda, countermemoranda, and reasoned votes of the majority and the minority. In addition to the official and highest
+authorities, the prince surrounded himself with purely personal confidants--the 'cabinet'--and through them
+rendered his decisions, after considering the resolutions of the state counsel, or whatever else the highest
+state agency was called. The prince, coming more and more into the position of a dilettante, sought to
+extricate himself from the unavoidably increasing weight of the expertly trained officials through the
+collegial system and the cabinet. He sought to retain the highest leadership in his own hands. This latent
+struggle between expert officialdom and autocratic rule existed everywhere. Only in the face of parliaments
+and the power aspirations of party leaders did the situation change. Very different conditions led to the
+externally identical result, though to be sure with certain differences. Wherever the dynasties retained
+actual power in their hands--as was especially the case in Germany--the interests of the prince were joined
+with those of officialdom against parliament and its claims for power. The officials were also interested in
+having leading position, that is, ministerial positions, occupied by their own ranks, thus making these
+positions an object of the official career. The monarch, on his part, was interested in being able to appoint
+the ministers from the ranks of devoted officials according to his own discretion. Both parties, however,
+were interested in seeing the political leadership confront parliament in a unified and solidary fashion, and
+hence in seeing the collegial system replaced by a single cabinet head. Furthermore, in order to be removed
+in a purely formal way from the struggle of parties and from party attacks, the monarch needed a single
+personality to cover him and to assume responsibility, that is, to answer to parliament and to negotiate with
+the parties. All these interests worked together and in the same direction: a minister emerged to direct the
+officialdom in a unified way.
+8
+Where parliament gained supremacy over the monarch--as in England --the development of parliamentary
+power worked even more strongly in the direction of a unification of the state apparatus. In England, the
+'cabinet,' with the single head of Parliament as its 'leader,' developed as a committee of the party which at
+the time controlled the majority. This party power was ignored by official law but, in fact, it alone was
+politically decisive. The official collegial bodies as such were not organs of the actual ruling power, the
+party, and hence could not be the bearers of real government. The ruling party required an ever-ready
+organization composed only of its actually leading men, who would confidentially discuss matters in order
+to maintain power within and be capable of engaging in grand politics outside. The cabinet is simply this
+organization. However, in relation to the public, especially the parliamentary public, the party needed a
+leader responsible for all decisions--the cabinet head. The English system has been taken over on the
+Continent in the form of parliamentary ministries. In America alone, and in the democracies influenced by
+America, a quite heterogeneous system was placed into opposition with this system. The American system
+placed the directly and popularly elected leader of the victorious party at the head of the apparatus of
+officials appointed by him and bound him to the consent of 'parliament' only in budgetary and legislative
+matters.
+The development of politics into an organization which demanded training in the struggle for power, and in
+the methods of this struggle as developed by modern party policies, determined the separation of public
+functionaries into two categories, which, however, are by no means rigidly but nevertheless distinctly
+separated. These categories are 'administrative' officials on the one hand, and 'political' officials on the
+other. The 'political' officials, in the genuine sense of the word, can regularly and externally be recognized
+by the fact that they can be transferred any time at will, that they can be dismissed, or at least temporarily
+withdrawn. They are like the French prefects and the comparable officials of other countries, and this is in
+sharp contrast to the 'independence' of officials with judicial functions. In England, officials who, according
+to fixed convention, retire from office when there is a change in the parliamentary majority, and hence a
+change in the cabinet, belong to this category. There are usually among them some whose competence
+includes the management of the general 'inner administration.' The political element consists, above all, in
+the task of maintaining 'law and order' in the country, hence maintaining the existing power relations. In
+Prussia these officials, in accordance with Puttkamer's decree and in order to avoid censure, were obliged to
+'represent the policy of the government.' And, like the prefects in France, they were used as an official
+apparatus for influencing elections. Most of the 'political' officials of the German system--in contrast to
+other countries--were equally qualified in so far as access to these offices required a university education,
+special examinations, and special preparatory service. In Germany, only the heads of the political
+apparatus, the ministers, lack this specific characteristic of modern civil service. Even under the old regime,
+one could be the Prussian minister of education without ever having attended an institution of higher
+learning; whereas one could become Vortragender Rat, in principle, only on the basis of a prescribed
+examination. The specialist and trained Dezernent and Vortragender Rat were of course infinitely better
+informed about the real technical problems of the division than was their respective chief--for instance,
+under Altho in the Prussian ministry of education. In England it was not different. Consequently, in all
+routine demands the divisional head was more powerful than the minister, which was not without reason.
+The minister was simply the representative of the political power constellation; he had to represent these
+powerful political staffs and he had to take measure of the proposals of his subordinate expert officials or
+give them directive orders of a political nature.
+After all, things in a private economic enterprise are quite similar: the real 'sovereign,' the assembled
+shareholders, is just as little influential in the business management as is a 'people' ruled by expert officials.
+And the personages who decide the policy of the enterprise, the bank-controlled 'directorate,' give only
+directive economic orders and select persons for the management without themselves being capable of
+technically directing the enterprise. Thus the present structure of the revolutionary state signifies nothing
+new in principle. It places power over the administration into the hands of absolute dilettantes, who, by
+virtue of their control of the machine-guns, would like to use expert officials only as executive heads and
+hands. The difficulties of the present system lie elsewhere than here, but today these difficulties shall not
+concern us. We shall, rather, ask for the typical peculiarity of the professional politicians, of the 'leaders' as
+well as their followings. Their nature has changed and today varies greatly from one case to another.
+9
+We have seen that in the past 'professional politicians' developed through the struggle of the princes with
+the estates and that they served the princes. Let us briefly review the major types of these professional
+politicians.
+Confronting the estates, the prince found support in politically exploitable strata outside of the order of the
+estates. Among the latter, there was, first, the clergy in Western and Eastern India, in Buddhist China and
+Japan, and in Lamaist Mongolia, just as in the Christian territories of the Middle Ages. The clergy were
+technically useful because they were literate. The importation of Brahmins, Buddhist priests, Lamas, and
+the employment of bishops and priests as political counselors, occurred with an eye to obtaining
+administrative forces who could read and write and who could be used in the struggle of the emperor,
+prince, or Khan against the aristocracy. Unlike the vassal who confronted his overlord, the cleric, especially
+the celibate cleric, stood outside the machinery of normal political and economic interests and was not
+tempted by the struggle for political power, for himself or for his descendants. By virtue of his own status,
+the cleric was 'separated' from the managerial implements of princely administration.
+The humanistically educated literati comprised a second such stratum. There was a time when one learned
+to produce Latin speeches and Greek verses in order to become a political adviser to a prince and, above all
+things, to become a memorialist. This was the time of the first flowering of the humanist schools and of the
+princely foundations of professorships for 'poetics.' This was for us a transitory epoch, which has had a
+quite persistent influence upon our educational system, yet no deeper results politically. In East Asia, it has
+been different. The Chinese mandarin is, or rather originally was, what the humanist of our Renaissance
+period approximately was: a literator humanistically trained and tested in the language monuments of the
+remote past. When you read the diaries of Li Hung Chang you will find that he is most proud of having
+composed poems and of being a good calligrapher. This stratum, with its conventions developed and
+modeled after Chinese Antiquity, has determined the whole destiny of China; and perhaps our fate would
+have been similar if the humanists in their time had the slightest chance of gaining a similar influence.
+The third stratum was the court nobility. After the princes had succeeded in expropriating political power
+from the nobility as an estate, they drew the nobles to the court and used them in their political and
+diplomatic service. The transformation of our educational system in the seventeenth century was partly
+determined by the fact that court nobles as professional politicians displaced the humanist literati and
+entered the service of the princes.
+The fourth category was a specifically English institution. A patrician stratum developed there which was
+comprised of the petty nobility and the urban rentiers; technically they are called the 'gentry.' The English
+gentry represents a stratum that the prince originally attracted in order to counter the barons. The prince
+placed the stratum in possession of the offices of 'self-government,' and later he himself became
+increasingly dependent upon them. The gentry maintained the possession of all offices of local
+administration by taking them over without compensation in the interest of their own social power. The
+gentry has saved England from the bureaucratization which has been the fate of all continental states.
+A fifth stratum, the university-trained jurist, is peculiar to the Occident, especially to the European
+continent, and has been of decisive significance for the Continent's whole political structure. The
+tremendous after-effect of Roman law, as transformed by the late Roman bureaucratic state, stands out in
+nothing more clearly than the fact that everywhere the revolution of political management in the direction
+of the evolving rational state has been borne by trained jurists. This also occurred in England, although
+there the great national guilds of jurists hindered the reception of Roman law. There is no analogy to this
+process to be found in any area of the world.
+All beginnings of rational juristic thinking in the Indian Mimamsa School and all further cultivation of the
+ancient juristic thinking in Islam have been unable to prevent the idea of rational law from being overgrown
+by theological forms of thought. Above all, legal trial procedure has not been fully rationalized in the cases
+of India and of Islamism. Such rationalization has been brought about on the Continent only through the
+borrowing of ancient Roman jurisprudence by the Italian jurists. Roman jurisprudence is the product of a
+political structure arising from the city state to world domination--a product of quite unique nature. The
+usus modernus of the late medieval pandect jurists and canonists was blended with theories of natural law,
+10
+which were born from juristic and Christian thought and which were later secularized. This juristic
+rationalism has had its great representatives among the Italian Podesta, the French crown jurists (who
+created the formal means for the undermining of the rule of seigneurs by royal power), among the canonists
+and the theologians of the ecclesiastic councils (thinking in terms of natural law), among the court jurists
+and academic judges of the continental princes, among the Netherland teachers of natural law and the
+monarchomachists, among the English crown and parliamentary jurists, among the noblesse de robe of the
+French Parliament, and finally, among the lawyers of the age of the French Revolution.
+Without this juristic rationalism, the rise of the absolute state is just as little imaginable as is the
+Revolution. If you look through the remonstrances of the French Parliaments or through the cahiers of the
+French Estates-General from the sixteenth century to the year 1789, you will find everywhere the spirit of
+the jurists. And if you go over the occupational composition of the members of the French Assembly, you
+will find there--although the members of the Assembly were elected through equal franchise--a single
+proletarian, very few bourgeois enterprisers, but jurists of all sorts, en masse. Without them, the specific
+mentality that inspired these radical intellectuals and their projects would be quite inconceivable. Since the
+French Revolution, the modern lawyer and modern democracy absolutely belong together. And lawyers, in
+our sense of an independent status group, also exist only in the Occident. They have developed since the
+Middle Ages from the Fursprech of the formalistic Germanic legal procedure under the impact of the
+rationalization of the trial.
+The significance of the lawyer in Occidental politics since the rise of parties is not accidental. The
+management of politics through parties simply means management through interest groups. We shall soon
+see what that means. The craft of the trained lawyer is to plead effectively the cause of interested clients. In
+this, the lawyer is superior to any 'official,' as the superiority of enemy propaganda [Allied propaganda
+1914-18] could teach us. Certainly he can advocate and win a cause supported by logically weak arguments
+and one which, in this sense, is a 'weak' cause. Yet he wins it because technically he makes a 'strong case'
+for it. But only the lawyer successfully pleads a cause that can be supported by logically strong arguments,
+thus handling a 'good' cause 'well.' All too often the civil servant as a politician turns a cause that is good in
+every sense into a 'weak' cause, through technically 'weak' pleading. This is what we have had to
+experience. To an outstanding degree, politics today is in fact conducted in public by means of the spoken
+or written word. To weigh the effect of the word properly falls within the range of the lawyer's tasks; but
+not at all into that of the civil servant. The latter is no demagogue, nor is it his purpose to be one. If he
+nevertheless tries to become a demagogue, he usually becomes a very poor one.
+According to his proper vocation, the genuine official--and this is decisive for the evaluation of our former
+regime--will not engage in politics. Rather, he should engage in impartial 'administration.' This also holds
+for the so-called 'political' administrator, at least officially, in so far as the raison d'etat, that is, the vital
+interests of the ruling order, are not in question. Sine ira et studio, 'without scorn and bias,' he shall
+administer his office. Hence, he shall not do precisely what the politician, the leader as well as his
+following, must always and necessarily do, namely, fight.
+To take a stand, to be passionate--ira et studium--is the politician's element, and above all the element of
+the political leader. His conduct is subject to quite a different, indeed, exactly the opposite, principle of
+responsibility from that of the civil servant. The honor of the civil servant is vested in his ability to execute
+conscientiously the order of the superior authorities, exactly as if the order agreed with his own conviction.
+This holds even if the order appears wrong to him and if, despite the civil servant's remonstrances, the
+authority insists on the order. Without this moral discipline and self-denial, in the highest sense, the whole
+apparatus would fall to pieces. The honor of the political leader, of the leading statesman, however, lies
+precisely in an exclusive personal responsibility for what he does, a responsibility he cannot and must not
+reject or transfer. It is in the nature of officials of high moral standing to be poor politicians, and above all,
+in the political sense of the word, to be irresponsible politicians. In this sense, they are politicians of low
+moral standing, such as we unfortunately have had again and again in leading positions. This is what we
+have called Beamtenherrschaft [civil-service rule], and truly no spot soils the honor of our officialdom if
+we reveal what is politically wrong with the system from the standpoint of success. But let us return once
+more to the types of political figures. Since the time of the constitutional state, and definitely since
+democracy has been established, the 'demagogue' has been the typical political leader in the Occident. The
+11
+distasteful flavor of the word must not make us forget that not Cleon but Pericles was the first to bear the
+name of demagogue. In contrast to the offices of ancient democracy that were filled by lot, Pericles led the
+sovereign Ecclesia of the demos of Athens as a supreme strategist holding the only elective office or
+without holding any office at all. Modern demagoguery also makes use of oratory, even to a tremendous
+extent, if one considers the election speeches a modern candidate has to deliver. But the use of the printed
+word is more enduring. The political publicist, and above all the journalist, is nowadays the most important
+representative of the demagogic species.
+Within the limits of this lecture, it is quite impossible even to sketch the sociology of modern political
+journalism, which in every respect constitutes a chapter in itself. Certainly, only a few things concerning it
+are in place here. In common with all demagogues and, by the way, with the lawyer (and the artist), the
+journalist shares the fate of lacking a fixed social classification. At least, this is the case on the Continent,
+in contrast to the English, and, by the way, also to former conditions in Prussia. The journalist belongs to a
+sort of pariah caste, which is always estimated by 'society' in terms of its ethically lowest representative.
+Hence, the strangest notions about journalists and their work are abroad. Not everybody realizes that a
+really good journalistic accomplishment requires at least as much 'genius' as any scholarly accomplishment,
+especially because of the necessity of producing at once and 'on order,' and because of the necessity of
+being effective, to be sure, under quite different conditions of production. It is almost never acknowledged
+that the responsibility of the journalist is far greater, and that the sense of responsibility of every honorable
+journalist is, on the average, not a bit lower than that of the scholar, but rather, as the war has shown,
+higher. This is because, in the very nature of the case, irresponsible journalistic accomplishments and their
+often terrible effects are remembered.
+Nobody believes that the discretion of any able journalist ranks above the average of other people, and yet
+that is the case. The quite incomparably graver temptations, and the other conditions that accompany
+journalistic work at the present time, produce those results which have conditioned the public to regard the
+press with a mixture of disdain and pitiful cowardice. Today we cannot discuss what is to be done. Here we
+are interested in the question of the occupational destiny of the political journalist and of his chance to
+attain a position of political leadership. Thus far, the journalist has had favorable chances only in the Social
+Democratic party. Within the party, editorial positions have been predominantly in the nature of official
+positions, but editorial positions have not been the basis for positions of leadership.
+In the bourgeois parties, on the whole, the chances for ascent to political power along this avenue have
+rather become worse, as compared with those of the previous generation. Naturally every politician of
+consequence has needed influence over the press and hence has needed relations with the press. But that
+party leaders would emerge from the ranks of the press has been an absolute exception and one should not
+have expected it. The reason for this lies in the strongly increased 'indispensability' of the journalist, above
+all, of the propertyless and hence professionally bound journalist, an indispensability which is determined
+by the tremendously increased intensity and tempo of journalistic operations. The necessity of gaining one's
+livelihood by the writing of daily or at least weekly articles is like lead on the feet of the politicians. I know
+of cases in which natural leaders have been permanently paralyzed in their ascent to power, externally and
+above all internally, by this compulsion. The relations of the press to the ruling powers in the state and in
+the parties, under the old regime [of the Kaiser], were as detrimental as they could be to the level of
+journalism; but that is a chapter in itself. These conditions were different in the countries of our opponents
+[the Allies]. But there also, and for all modern states, apparently the journalist worker gains less and less as
+the capitalist lord of the press, of the sort of 'Lord' Northcliffe, for instance, gains more and more political
+influence.
+Thus far, however, our great capitalist newspaper concerns, which attained control, especially over the
+'chain newspapers,' with 'want ads,' have been regularly and typically the breeders of political indifference.
+For no profits could be made in an independent policy; especially no profitable benevolence of the
+politically dominant powers could be obtained. The advertising business is also the avenue along which,
+during the war, the attempt was made to influence the press politically in a grand style--an attempt which
+apparently it is regarded as desirable to continue now. Although one may expect the great papers to escape
+this pressure, the situation of the small ones will be far more difficult. In any case, for the time being, the
+journalist career is not among us, a normal avenue for the ascent of political leaders, whatever attraction
+12
+journalism may otherwise have and whatever measure of influence, range of activity, and especially
+political responsibility it may yield. One has to wait and see. Perhaps journalism does not have this function
+any longer, or perhaps journalism does not yet have it. Whether the renunciation of the principle of
+anonymity would mean a change in this is difficult to say. Some journalists--not all--believe in dropping
+principled anonymity. What we have experienced during the war in the German press, and in the
+'management' of newspapers by especially hired personages and talented writers who always expressly
+figured under their names, has unfortunately shown, in some of the better known cases, that an increased
+awareness of responsibility is not so certain to be bred as might be believed. Some of the papers were,
+without regard to party, precisely the notoriously worst boulevard sheets; by dropping anonymity they
+strove for and attained greater sales. The publishers as well as the journalists of sensationalism have gained
+fortunes but certainly not honor. Nothing is here being said against the principle of promoting sales; the
+question is indeed an intricate one, and the phenomenon of irresponsible sensationalism does not hold in
+general. But thus far, sensationalism has not been the road to genuine leadership or to the responsible
+management of politics. How conditions will further develop remains to be seen. Yet the journalist career
+remains under all circumstances one of the most important avenues of professional political activity. It is
+not a road for everybody, least of all for weak characters, especially for people who can maintain their
+inner balance only with a secure status position. If the life of a young scholar is a gamble, still he is walled
+in by firm status conventions, which prevent him from slipping. But the journalist's life is an absolute
+gamble in every respect and under conditions that test one's inner security in a way that scarcely occurs in
+any other situation. The often bitter experiences in occupational life are perhaps not even the worst. The
+inner demands that are directed precisely at the successful journalist are especially difficult. It is, indeed, no
+small matter to frequent the salons of the powerful on this earth on a seemingly equal footing and often to
+be flattered by all because one is feared, yet knowing all the time that having hardly closed the door the
+host has perhaps to justify before his guests his association with the 'scavengers from the press.' Moreover,
+it is no small matter that one must express oneself promptly and convincingly about this and that, on all
+conceivable problems of life--whatever the 'market' happens to demand--and this without becoming
+absolutely shallow and above all without losing one's dignity by baring oneself, a thing which has merciless
+results. It is not astonishing that there are many journalists who have become human failures and worthless
+men. Rather, it is astonishing that, despite all this, this very stratum includes such a great number of
+valuable and quite genuine men, a fact that outsiders would not so easily guess.
+If the journalist as a type of professional politician harks back to a rather considerable past, the figure of the
+party official belongs only to the development of the last decades and, in part, only to recent years. In order
+to comprehend the position of this figure in historical evolution, we shall have to turn to a consideration of
+parties and party organizations.
+In all political associations which are somehow extensive, that is, associations going beyond the sphere and
+range of the tasks of small rural districts where power-holders are periodically elected, political
+organization is necessarily managed by men interested in the management of politics. This is to say that a
+relatively small number of men are primarily interested in political life and hence interested in sharing
+political power. They provide themselves with a following through free recruitment, present themselves or
+their proteges as candidates for election, collect the financial means, and go out for vote-grabbing. It is
+unimaginable how in large associations elections could function at all without this managerial pattern. In
+practice this means the division of the citizens with the right to vote into politically active and politically
+passive elements. This difference is based on voluntary attitudes, hence it cannot be abolished through
+measures like obligatory voting, or 'occupational status group' representation, or similar measures that are
+expressly or actually directed against this state of affairs and the rule of professional politicians. The active
+leadership and their freely recruited following are the necessary elements in the life of any party. The
+following, and through it the passive electorate, are necessary for the election of the leader. But the
+structure of parties varies. For instance, the 'parties' of the medieval cities, such as those of the Guelfs and
+the Ghibellines, were purely personal followings. If one considers various things about these medieval
+parties, one is reminded of Bolshevism and its Soviets. Consider the Statuta della perta Guelfa, the
+confiscations of the Nobili's estates--which originally meant all those families who lived a chivalrous life
+and who thus qualified for fiefs--consider the exclusion from office-holding and the denial of the right to
+vote, the inter-local party committees, the strictly military organizations and the premiums for informers.
+Then consider Bolshevism with its strictly sieved military and, in Russia especially, informer organizations,
+13
+the disarmament and denial of the political rights of the 'bourgeois,' that is, of the entrepreneur, trader,
+rentier, clergyman, descendants of the dynasty, police agents, as well as the confiscation policy.
+This analogy is still more striking when one considers that, on the one hand, the military organization of the
+medieval party constituted a pure army of knights organized on the basis of the registered feudal estates and
+that nobles occupied almost all leading positions, and, on the other hand, that the Soviets have preserved, or
+rather reintroduced, the highly paid enterpriser, the group wage, the Taylor system, military and workshop
+discipline, and a search for foreign capital. Hence, in a word, the Soviets have had to accept again
+absolutely all the things that Bolshevism had been fighting as bourgeois class institutions. They have had to
+do this in order to keep the state and the economy going at all. Moreover, the Soviets have reinstituted the
+agents of the former Ochrana [Tsarist Secret Police] as the main instrument of their state power. But here
+we do not have to deal with such organizations for violence, but rather with professional politicians who
+strive for power through sober and 'peaceful' party campaigns in the market of election votes.
+Parties, in the sense usual with us, were at first, for instance in England, pure followings of the aristocracy.
+If, for any reason whatever, a peer changed his party, everybody dependent upon him likewise changed. Up
+to the Reform Bill [of 1832], the great noble families and, last but not least, the king controlled the
+patronage of an immense number of election boroughs. Close to these aristocratic parties were the parties
+of notables, which develop everywhere with the rising power of the bourgeois. Under the spiritual
+leadership of the typical intellectual strata of the Occident, the propertied and cultured circles differentiated
+themselves into parties and followed them. These parties were formed partly according to class interest,
+partly according to family traditions, and partly for ideological reasons. Clergymen, teachers, professors,
+lawyers, doctors, apothecaries, prosperous farmers, manufacturers--in England the whole stratum that
+considered itself as belonging to the class of gentlemen-- formed, at first, occasional associations at most
+local political clubs. In times of unrest the petty bourgeoisie raised its voice, and once in a while the
+proletariat, if leaders arose who, however, as a rule did not stem from their midst. In this phase, parties
+organized as permanent associations between localities do not yet exist in the open country. Only the
+parliamentary delegates create the cohesion; and the local notables are decisive for the selection of
+candidates. The election programs originate partly in the election appeals of the candidates and partly in the
+meetings of the notables; or, they originate as resolutions of the parliamentary party. Leadership of the
+clubs is an avocation and an honorific pursuit, as demanded by the occasion.
+Where clubs are absent (as is mostly the case), the quite formless management of politics in normal times
+lies in the hands of the few people constantly interested in it. Only the journalist is a paid professional
+politician; only the management of the newspaper is a continuous political organization. Besides the
+newspaper, there is only the parliamentary session. The parliamentary delegates and the parliamentary
+party leaders know to which local notables one turns if a political action seems desirable. But permanent
+associations of the parties exist only in the large cities with moderate contributions of the members and
+periodical conferences and public meetings where the delegate gives account of the parliamentary
+activities. The party is alive only during election periods.
+The members of parliament are interested in the possibility of inter-local electoral compromises, in
+vigorous and unified programs endorsed by broad circles and in a unified agitation throughout the country.
+In general these interests form the driving force of a party organization which becomes more and more
+strict. In principle, however, the nature of a party apparatus as an association of notables remains
+unchanged. This is so, even though a network of local party affiliations and agents is spread over the whole
+country, including middle-sized cities. A member of the parliamentary party acts as the leader of the central
+party office and maintains constant correspondence with the local organizations. Outside of the central
+bureau, paid officials are still absent; thoroughly 'respectable' people head the local organizations for the
+sake of the deference which they enjoy anyway. They form the extra-parliamentary 'notables' who exert
+influence alongside the stratum of political notables who happen to sit in parliament. However, the party
+correspondence, edited by the party, increasingly provides intellectual nourishment for the press and for the
+local meetings. Regular contributions of the members become indispensable; a part of these must cover the
+expenses of headquarters.
+14
+Not so long ago most of the German party organizations were still in this stage of development. In France,
+the first stage of party development was, at least in part, still predominant, and the organization of the
+members of parliament was quite unstable. In the open country, we find a small number of local notables
+and programs drafted by the candidates or set up for them by their patrons in specific campaigns for office.
+To be sure, these platforms constitute more or less local adaptations to the resolutions and programs of the
+members of parliament. This system was only partially punctured. The number of full-time professional
+politicians was small, consisting in the main of the elected deputies, the few employees of headquarters,
+and the journalists. In France, the system has also included those job hunters who held 'political office' or,
+at the moment, strove for one. Politics was formally and by far predominantly an avocation. The number of
+delegates qualifying for ministerial office was also very restricted and, because of their position as notables,
+so was the number of election candidates.
+However, the number of those who indirectly had a stake in the management of politics, especially a
+material one, was very large. For, all administrative measures of a ministerial department, and especially all
+decisions in matters of personnel, were made partly with a view to their influence upon electoral chances.
+The realization of each and every kind of wish was sought through the local delegate's mediation. For better
+or for worse the minister had to lend his ear to this delegate, especially if the delegate belonged to the
+minister's majority. Hence everybody strove for such influence. The single deputy controlled the patronage
+of office and, in general, any kind of patronage in his election district. In order to be re-elected the deputy,
+in turn, maintained connections with the local notables.
+Now then, the most modern forms of party organizations stand in sharp contrast to this idyllic state in
+which circles of notables and, above all, members of parliament rule. These modern forms are the children
+of democracy, of mass franchise, of the necessity to woo and organize the masses, and develop the utmost
+unity of direction and the strictest discipline. The rule of notables and guidance by members of parliament
+ceases. 'Professional' politicians outside the parliaments take the organization in hand. They do so either as
+'entrepreneurs'--the American boss and the English election agent are, in fact, such entrepreneurs--or as
+officials with a fixed salary. Formally, a fargoing democratization takes place. The parliamentary party no
+longer creates the authoritative programs, and the local notables no longer decide the selection of
+candidates. Rather assemblies of the organized party members select the candidates and delegate members
+to the assemblies of a higher order. Possibly there are several such conventions leading up to the national
+convention of the party. Naturally power actually rests in the hands of those who, within the organization,
+handle the work continuously. Otherwise, power rests in the hands of those on whom the organization in its
+processes depends financially or personally--for instance, on the Maecenases or the directors of powerful
+political clubs of interested persons (Tammany Hall). It is decisive that this whole apparatus of people--
+characteristically called a 'machine' in Anglo-Saxon countries--or rather those who direct the machine, keep
+the members of the parliament in check. They are in a position to impose their will to a rather far-reaching
+extent, and that is of special significance for the selection of the party leader. The man whom the machine
+follows now becomes the leader, even over the head of the parliamentary party. In other words, the creation
+of such machines signifies the advent of plebiscitarian democracy.
+The party following, above all the party official and party entrepreneur, naturally expect personal
+compensation from the victory of their leader--that is, offices or other advantages. It is decisive that they
+expect such advantages from their leader and not merely from the individual member of parliament. They
+expect that the demagogic effect of the leader's personality during the election fight of the party will
+increase votes and mandates and thereby power, and, thereby, as far as possible, will extend opportunities
+to their followers to find the compensation for which they hope. Ideally, one of their mainsprings is the
+satisfaction of working with loyal personal devotion for a man, and not merely for an abstract program of a
+party consisting of mediocrities. In this respect, the 'charismatic' element of all leadership is at work in the
+party system.
+In very different degrees this system made headway, although it was in constant, latent struggle with local
+notables and the members of parliament who wrangled for influence. This was the case in the bourgeois
+parties, first, in the United States, and, then, in the Social Democratic party, especially of Germany.
+Constant setbacks occur as soon as no generally recognized leader exists, and, even when he is found,
+concessions of all sorts must be made to the vanity and the personal interest of the party notables. The
+15
+machine may also be brought under the domination of the party officials in whose hands the regular
+business rests. According to the view of some Social Democratic circles, their party had succumbed to this
+'bureaucratization.' But 'officials' submit relatively easily to a leader's personality if it has a strong
+demagogic appeal. The material and the ideal interests of the officials are intimately connected with the
+effects of party power which are expected from the leader's appeal, and besides, inwardly it is per se more
+satisfying to work for a leader. The ascent of leaders is far more difficult where the notables, along with the
+officials, control the party, as is usually the case in the bourgeois parties. For ideally the notables make
+'their way of life' out of the petty chairmanships or committee memberships they hold. Resentment against
+the demagogue as a homo novus, the conviction of the superiority of political party 'experience' (which, as a
+matter of fact, actually is of considerable importance), and the ideological concern for the crumbling of the
+old party traditions--these factors determine the conduct of the notables. They can count on all the
+traditionalist elements within the party. Above all, the rural but also the petty bourgeois voter looks for the
+name of the notable familiar to him. He distrusts the man who is unknown to him. However, once this man
+has become successful, he clings to him the more unwaveringly. Let us now consider, by some major
+examples, the struggle of the two structural forms --of the notables and of the party--and especially let us
+consider the ascendancy of the plebiscitarian form as described by Ostrogorsky.
+First England: there until 1868 the party organization was almost purely an organization of notables. The
+Tories in the country found support, for instance, from the Anglican parson, and from the schoolmaster,
+and above all from the large landlords of the respective county. The Whigs found support mostly from such
+people as the nonconformist preacher (when there was one), the postmaster, the blacksmith, the tailor, the
+rope-maker--that is, from such artisans who could disseminate political influence because they could chat
+with people most frequently. In the city the parties differed, partly according to economics, partly
+according to religion, and partly simply according to the party opinions handed down in the families. But
+always the notables were the pillars of the political organization.
+Above all these arrangements stood Parliament, the parties with the cabinet, and the 'leader,' who was the
+chairman of the council of ministers or the leader of the opposition. This leader had beside him the 'whip'--
+the most important professional politician of the party organization. Patronage of office was vested in the
+hands of the 'whip'; thus the job hunter had to turn to him and he arranged an understanding with the
+deputies of the individual election boroughs. A stratum of professional politicians gradually began to
+develop in the boroughs. At first the locally recruited agents were not paid; they occupied approximately
+the same position as our Vertrauensmanner. However, along with them a capitalist entrepreneurial type
+developed in the boroughs. This was the 'election agent,' whose existence was unavoidable under England's
+modern legislation which guaranteed fair elections.
+This legislation aimed at controlling the campaign costs of elections and sought to check the power of
+money by making it obligatory for the candidate to state the costs of his campaign. For in England, the
+candidate, besides straining his voice--far more so than was formerly the case with us [in Germany]--
+enjoyed stretching his purse. The election agent made the candidate pay a lump sum, which usually meant a
+good deal for the agent. In the distribution of power in Parliament and the country between the 'leader' and
+the party notables, the leader in England used to hold a very eminent position. This position was based on
+the compelling fact of making possible a grand, and thereby steady, political strategy. Nevertheless the
+influence of the parliamentary party and of party notables was still considerable.
+That is about what the old party organization looked like. It was half an affair of notables and half an
+entrepreneurial organization with salaried employees. Since 1808, however, the 'caucus' system developed,
+first for local elections in Birmingham, then all over the country. A nonconformist person and along with
+him Joseph Chamberlain brought this system to life. The occasion for this development was the
+democratization of the franchise. In order to win the masses it became necessary to call into being a
+tremendous apparatus of apparently democratic associations. An electoral association had to be formed in
+every city district to help keep the organization incessantly in motion and to bureaucratize everything
+rigidly. Hence, hired and paid officials of the local electoral committees increased numerically; and, on the
+whole, perhaps 10 per cent of the voters were organized in these local committees. The elected party
+managers had the right to co-opt others and were the formal bearers of party politics. The driving force was
+the local circle, which was, above all, composed of those interested in municipal politics--from which the
+16
+fattest material opportunities always spring. These local circles were also first to call upon the world of
+finance. This newly emerging machine, which was no longer led by members of Parliament, very soon had
+to struggle with the previous power-holders, above all, with the 'whip.' Being supported by locally
+interested persons, the machine came out of the fight so victoriously that the whip had to submit and
+compromise with the machine. The result was a centralization of all power in the hands of the few and,
+ultimately, of the one person who stood at the top of the party. The whole system had arisen in the Liberal
+party in connection with Gladstone's ascent to power. What brought this machine to such swift triumph
+over the notables was the fascination of Gladstone's 'grand' demagogy, the firm belief of the masses in the
+ethical substance of his policy, and, above all, their belief in the ethical character of his personality. It soon
+became obvious that a Caesarist plebiscitarian element in politics--the dictator of the battlefield of
+elections--had appeared on the plain. In 1877 the caucus became active for the first time in national
+elections, and with brilliant success, for the result was Disraeli's fall at the height of his great achievements.
+In 1866, the machine was already so completely oriented to the charismatic personality that when the
+question of home rule was raised the whole apparatus from top to bottom did not question whether it
+actually stood on Gladstone's ground; it simply, on his word, fell in line with him: they said, Gladstone
+right or wrong, we follow him. And thus the machine deserted its own creator, Chamberlain.
+Such machinery requires a considerable personnel. In England there are about 2,000 persons who live
+directly off party politics. To be sure, those who are active in politics purely as job seekers or as interested
+persons are far more numerous, especially in municipal politics. In addition to economic opportunities, for
+the useful caucus politician, there are the opportunities to satisfy his vanity. To become 'J.P.' or even 'M.P.'
+is, of course, in line with the greatest (and normal) ambition; and such people, who are of demonstrably
+good breeding, that is, 'gentlemen,' attain their goal. The highest goal is, of course, a peerage, especially for
+the great financial Maecenases. About 50 per cent of the finances of the party depend on contributions of
+donors who remained anonymous.
+Now then, what has been the effect of this whole system? Nowadays the members of Parliament, with the
+exception of the few cabinet members (and a few insurgents), are normally nothing better than welldisciplined 'yes' men. With us, in the Reichstag, one used at least to take care of one's private
+correspondence on his desk, thus indicating that one was active in the weal of the country. Such gestures
+are not demanded in England; the member of Parliament must only vote, not commit party treason. He
+must appear when the whips call him, and do what the cabinet or the leader of the opposition orders. The
+caucus machine in the open country is almost completely unprincipled if a strong leader exists who has the
+machine absolutely in hand. Therewith the plebiscitarian dictator actually stands above Parliament. He
+brings the masses behind him by means of the machine and the members of Parliament are for him merely
+political spoilsmen enrolled in his following.
+How does the selection of these strong leaders take place? First, in terms of what ability are they selected?
+Next to the qualities of will-- decisive all over the world--naturally the force of demagogic speech is above
+all decisive. Its character has changed since the time speakers like Cobden addressed themselves to the
+intellect, and Gladstone who mastered the technique of apparently 'letting sober facts speak for themselves.'
+At the present time often purely emotional means are used--the means the Salvation Army also exploits in
+order to set the masses in motion. One may call the existing state of affairs a 'dictatorship resting on the
+exploitation of mass emotionality.' Yet, the highly developed system of committee work in the English
+Parliament makes it possible and compelling for every politician who counts on a share in leadership to
+cooperate in committee work. All important ministers of recent decades have this very real and effective
+work-training as a background. The practice of committee reports and public criticism of these
+deliberations is a condition for training, for really selecting leaders and eliminating mere demagogues.
+Thus it is in England. The caucus system there, however, has been a weak form, compared with the
+American party organization, which brought the plebiscitarian principle to an especially early and an
+especially pure expression.
+According to Washington's idea, America was to be a commonwealth administered by 'gentlemen.' In his
+time, in America, a gentleman was also a landlord, or a man with a college education--this was the case at
+first. In the beginning, when parties began to organize, the members of the House of Representatives
+17
+claimed to be leaders, just as in England at the time when notables ruled. The party organization was quite
+loose and continued to be until 1824. In some communities, where modern development first took place,
+the party machine was in the making even before the eighteen-twenties. But when Andrew Jackson was
+first elected President--the election of the western farmers' candidate--the old traditions were overthrown.
+Formal party leadership by leading members of Congress came to an end soon after 1840, when the great
+parliamentarians, Calhoun and Webster, retired from political life because Congress had lost almost all of
+its power to the party machine in the open country. That the plebiscitarian 'machine' has developed so early
+in America is due to the fact that there, and there alone, the executive--this is what mattered--the chief of
+office-patronage, was a President elected by plebiscite. By virtue of the 'separation of powers' he was
+almost independent of parliament in his conduct of office. Hence, as the price of victory, the true booty
+object of the office-prebend was held out precisely at the presidential election. Through Andrew Jackson
+the 'spoils system' was quite systematically raised to a principle and the conclusions were drawn.
+What does this spoils system, the turning over of federal offices to the following of the victorious
+candidate, mean for the party formations of today? It means that quite unprincipled parties oppose one
+another; they are purely organizations of job hunters drafting their changing platforms according to the
+chances of vote-grabbing, changing their colors to a degree which, despite all analogies, is not yet to be
+found elsewhere. The parties are simply and absolutely fashioned for the election campaign that is most
+important for office patronage: the fight for the presidency and for the governorships of the separate states.
+Platforms and candidates are selected at the national conventions of the parties without intervention by
+congressmen. Hence they emerge from party conventions, the delegates of which are formally, very
+democratically elected. These delegates are determined by meetings of other delegates, who, in turn, owe
+their mandate to the 'primaries,' the assembling of the direct voters of the party. In the primaries the
+delegates are already elected in the name of the candidate for the nation's leadership. Within the parties the
+most embittered fight rages about the question of 'nomination.' After all, 300,000 to 400,000 official
+appointments lie in the hands of the President, appointments which are executed by him only with the
+approval of the senators from the separate states. Hence the senators are powerful politicians. By
+comparison, however, the House of Representatives is, politically, quite impotent, because patronage of
+office is removed from it and because the cabinet members, simply assistants to the President, can conduct
+office apart from the confidence or lack of confidence of the people. The President, who is legitimized by
+the people, confronts everybody, even Congress; this is a result of 'the separation of powers.'
+In America, the spoils system, supported in this fashion, has been technically possible because American
+culture with its youth could afford purely dilettante management. With 300,000 to 400,000 such party men
+who have no qualifications to their credit other than the fact of having performed good services for their
+party, this state of affairs of course could not exist without enormous evils. A corruption and wastefulness
+second to none could be tolerated only by a country with as yet unlimited economic opportunities.
+Now then, the boss is the figure who appears in the picture of this system of the plebiscitarian party
+machine. Who is the boss? He is a political capitalist entrepreneur who on his own account and at his own
+risk provides votes. He may have established his first relations as a lawyer or a saloon-keeper or as a
+proprietor of similar establishments, or perhaps as a creditor. From here he spins his threads out until he is
+able to 'control' a certain number of votes. When he has come this far he establishes contact with the
+neighboring bosses, and through zeal, skill, and above all discretion, he attracts the attention of those who
+have already further advanced in the career, and then he climbs. The boss is indispensable to the
+organization of the party and the organization is centralized in his hands. He substantially provides the
+financial means. How does he get them ? Well, partly by the contributions of the members, and especially
+by taxing the salaries of those officials who came into office through him and his party. Furthermore, there
+are bribes and tips. He who wishes to trespass with impunity one of the many laws needs the boss's
+connivance and must pay for it; or else he will get into trouble. But this alone is not enough to accumulate
+the necessary capital for political enterprises. The boss is indispensable as the direct recipient of the money
+of great financial magnates, who would not entrust their money for election purposes to a paid party
+official, or to anyone else giving public account of his affairs. The boss, with his judicious discretion in
+financial matters, is the natural man for those capitalist circles who finance the election. The typical boss is
+an absolutely sober man. He does not seek social honor; the 'professional' is despised in 'respectable
+society.' He seeks power alone, power as a source of money, but also power for power's sake. In contrast to
+18
+the English leader, the American boss works in the dark. He is not heard speaking in public; he suggests to
+the speakers what they must say in expedient fashion. He himself, however, keeps silent. As a rule he
+accepts no office, except that of senator. For, since the senators, by virtue of the Constitution, participate in
+office patronage, the leading bosses often sit in person in this body. The distribution of offices is carried
+out, in the first place, according to services done for the party. But, also, auctioning offices on financial
+bids often occurs and there are certain rates for individual offices; hence, a system of selling offices exists
+which, after all, has often been known also to the monarchies, the church-state included, of the seventeenth
+and eighteenth centuries.
+The boss has no firm political 'principles'; he is completely unprincipled in attitude and asks merely: What
+will capture votes? Frequently he is a rather poorly educated man. But as a rule he leads an inoffensive and
+correct private life. In his political morals, however, he naturally adjusts to the average ethical standards of
+political conduct, as a great many of us also may have done during the hoarding period in the field of
+economic ethics. That as a 'professional' politician the boss is socially despised does not worry him. That he
+personally does not attain high federal offices, and does not wish to do so, has the frequent advantage that
+extra-party intellects, thus notables, may come into candidacy when the bosses believe they will have great
+appeal value at the polls. Hence the same old party notables do not run again and again, as is the case in
+Germany. Thus the structure of these unprincipled parties with their socially despised power-holders has
+aided able men to attain the presidency --men who with us never would have come to the top. To be sure,
+the bosses resist an outsider who might jeopardize their sources of money and power. Yet in the
+competitive struggle to win the favor of the voters, the bosses frequently have had to condescend and
+accept candidates known to be opponents of corruption.
+Thus there exists a strong capitalist party machine, strictly and thoroughly organized from top to bottom,
+and supported by clubs of extraordinary stability. These clubs, such as Tammany Hall, are like Knight
+orders. They seek profits solely through political control, especially of the municipal government, which is
+the most important object of booty. This structure of party life was made possible by the high degree of
+democracy in the United States--a 'New Country.' This connection, in turn, is the basis for the fact that the
+system is gradually dying out. America can no longer be governed only by dilettantes. Scarcely fifteen
+years ago, when American workers were asked why they allowed themselves to be governed by politicians
+whom they admitted they despised, the answer was: 'We prefer having people in office whom we can spit
+upon, rather than a caste of officials who spit upon us, as is the case with you.' This was the old point of
+view of American 'democracy.' Even then, the socialists had entirely different ideas and now the situation is
+no longer bearable. The dilettante administration does not suffice and the Civil Service Reform establishes
+an ever-increasing number of positions for life with pension rights. The reform works out in such a way
+that university-trained officials, just as incorruptible and quite as capable as our officials, get into office.
+Even now about 100,000 offices have ceased being objects of booty to be turned over after elections.
+Rather, the offices qualify their holders for pensions, and are based upon tested qualifications. The spoils
+system will thus gradually recede into the background and the nature of party leadership is then likely to be
+transformed also--but as yet, we do not know in what way.
+In Germany, until now, the decisive conditions of political management have been in essence as follows:
+First, the parliaments have been impotent. The result has been that no man with the qualities of a leader
+would enter Parliament permanently. If one wished to enter Parliament, what could one achieve there?
+When a chancellery position was open, one could tell the administrative chief: 'I have a very able man in
+my election district who would be suitable; take him.' And he would have concurred with pleasure- but that
+was about all that a German member of Parliament could do to satisfy his instincts for power--if he
+possessed any.
+To this must be added the tremendous importance of the trained expert officialdom in Germany. This factor
+determined the impotence of . Parliament. Our officialdom was second to none in the world. This
+importance of the officialdom was accompanied by the fact that the officials claimed not only official
+positions but also cabinet positions for themselves. In the Bavarian state legislature, when the introduction
+of parliamentary government was debated last year, it was said that if members of the legislature were to be
+placed in cabinet positions talented people would no longer seek official careers. Moreover, the civil-
+19
+service administration systematically escaped such control as is signified by the English committee
+discussions. The administration thus made it impossible for parliaments--with a few exceptions--to train
+really useful administrative chiefs from their own ranks.
+A third factor is that in Germany, in contrast to America, we have had parties with principled political
+views who have maintained that their members, at least subjectively, represented bona-fide
+Weltanschauungen. Now then, the two most important of these parties, the Catholic Centre Party and the
+Social Democratic party, have, from their inceptions, been minority parties and have meant to be minority
+parties. The leading circles of the Centre party in the Reich have never concealed their opposition to
+parliamentarian democracy, because of fear of remaining in the minority and thus facing great difficulties
+in placing their job hunters in office as they have done by exerting pressure on the government. The Social
+Democratic party was a principled minority party and a handicap to the introduction of parliamentary
+government because the party did not wish to stain itself by participating in the existing bourgeois political
+order. The fact that both parties dissociated themselves from the parliamentary system made parliamentary
+government impossible.
+Considering all this, what then became of the professional politicians in Germany? They have had no
+power, no responsibility, and could play only a rather subordinate role as notables. In consequence, they
+have been animated anew by the guild instincts, which are typical everywhere. It has been impossible for a
+man who was not of their hue to climb high in the circle of those notables who made their petty positions
+their lives. I could mention many names from every party, the Social Democratic party, of course, not
+excepted, that spell tragedies of political careers because the persons had leadership qualities, and precisely
+because of these qualities were not tolerated by the notables. All our parties have taken this course of
+development and have become guilds of notables. Bebel, for instance, was still a leader through
+temperament and purity of character, however modest his intellect. The fact that he was a martyr, that he
+never betrayed confidence in the eyes of the masses, resulted in his having the masses absolutely behind
+him. There was no power in the party that could have seriously challenged him. Such leadership came to an
+end, after his death, and the rule of officials began. Trade-union officials, party secretaries, and journalists
+came to the top. The instincts of officialdom dominated the party--a highly respectable officialdom, of rare
+respectability one may say, compared to conditions in other countries, especially the often corruptible
+trade-union officials in America. But the results of control by officialdom, which we discussed above, also
+began in the party.
+Since the eighteen-eighties the bourgeois parties have completely become guilds of notables. To be sure,
+occasionally the parties had to draw on extra-party intellects for advertising purposes, so that they could
+say, 'We have such and such names.' So far as possible, they avoided letting these names run for election;
+only when it was unavoidable and the person insisted could he run for election. The same spirit prevailed in
+Parliament. Our parliamentary parties were and are guilds. Every speech delivered from the floor of the
+Reichstag is thoroughly censored in the party before it is delivered. This is obvious from their unheard-of
+boredom. Only he who is summoned to speak can have the word. One can hardly conceive of a stronger
+contrast to the English, and also--for quite opposite reasons--the French usage.
+Now, in consequence of the enormous collapse, which is customarily called the Revolution, perhaps a
+transformation is under way. Perhaps-- but not for certain. In the beginning there were new kinds of party
+apparatuses emerging. First, there were amateur apparatuses. They are especially often represented by
+students of the various universities, who tell a man to whom they ascribe leadership qualities: we want to
+do the necessary work for you; carry it out. Secondly, there are apparatuses of businessmen. It happened
+that men to whom leadership qualities were ascribed were approached by people willing to take over the
+propaganda, at fixed rates for every vote. If you were to ask me honestly which of these two apparatuses I
+think the more reliable, from the purely technical-political point of view, I believe I would prefer the latter.
+But both apparatuses were fast-emerging bubbles, which swiftly vanished again. The existing apparatuses
+transformed themselves, but they continued to work. The phenomena are only symptoms of the fact that
+new apparatuses would come about if there were only leaders. But even the technical peculiarity of
+proportionate representation precluded their ascendancy. Only a few dictators of the street crowds arose
+and fell again. And only the following of a mob dictatorship is organized in a strictly disciplined fashion:
+whence the power of these vanishing minorities.
+20
+Let us assume that all this were to change; then, after what has been said above, it has to be clearly realized
+that the plebiscitarian leadership of parties entails the 'soullessness' of the following, their intellectual
+proletarianization, one might say. In order to be a useful apparatus, a machine in the American sense--
+undisturbed either by the vanity of notables or pretensions to independent views--the following of such a
+leader must obey him blindly. Lincoln's election was possible only through this character of party
+organization, and with Gladstone, as mentioned before, the same happened in the caucus. This is simply the
+price paid for guidance by leaders. However, there is only the choice between leadership democracy with a
+'machine' and leaderless democracy, namely, the rule of professional politicians without a calling, without
+the inner charismatic qualities that make a leader, and this means what the party insurgents in the situation
+usually designate as 'the rule of the clique.' For the time being, we in Germany have only the latter. For the
+future, the permanence of this situation, at least in the Reich, is primarily facilitated by the fact that the
+Bundesrat will rise again and will of necessity restrict the power of the Reichstag and therewith its
+significance as a selective agency of leaders. Moreover, in its present form, proportional representation is a
+typical phenomenon of leaderless democracy. This is the case not only because it facilitates the horsetrading of the notables for placement on the ticket, but also because in the future it will give organized
+interest groups the possibility of compelling parties to include their officials in the list of candidates, thus
+creating an unpolitical Parliament in which genuine leadership finds no place. Only the President of the
+Reich could become the safety-valve of the demand for leadership if he were elected in a plebiscitarian way
+and not by Parliament. Leadership on the basis of proved work could emerge and selection could take
+place, especially if, in great municipalities, the plebiscitarian city-manager were to appear on the scene with
+the right to organize his bureaus independently. Such is the case in the U.S.A. whenever one wishes to
+tackle corruption seriously. It requires a party organization fashioned for such elections. But the very pettybourgeois hostility of all parties to leaders, the Social Democratic party certainly included, leaves the future
+formation of parties and all these chances still completely in the dark.
+Therefore, today, one cannot yet see in any way how the management of politics as a 'vocation' will shape
+itself. Even less can one see along what avenue opportunities are opening to which political talents can be
+put for satisfactory political tasks. He who by his material circumstances is compelled to live 'of politics
+will almost always have to consider the alternative positions of the journalist or the party official as the
+typical direct avenues. Or, he must consider a position as representative of interest groups--such as a trade
+union, a chamber of commerce, a farm bureau, a craft association, a labor board, an employer's association,
+et cetera, or else a suitable municipal position. Nothing more than this can be said about this external
+aspect: in common with the journalist, the party official bears the odium of being declasse. 'Wage writer' or
+'wage speaker' will unfortunately always resound in his ears, even though the words remain unexpressed.
+He who is inwardly defenseless and unable to find the proper answer for himself had better stay away from
+this career. For in any case, besides grave temptations, it is an avenue that may constantly lead to
+disappointments. Now then, what inner enjoyments can this career offer and what personal conditions are
+presupposed for one who enters this avenue?
+Well, first of all the career of politics grants a feeling of power. The knowledge of influencing men, of
+participating in power over them, and above all, the feeling of holding in one's hands a nerve fiber of
+historically important events can elevate the professional politician above everyday routine even when he is
+placed in formally modest positions. But now the question for him is: Through what qualities can I hope to
+do justice to this power (however narrowly circumscribed it may be in the individual case) ? How can he
+hope to do justice to the responsibility that power imposes upon him? With this we enter the field of ethical
+questions, for that is where the problem belongs: What kind of a man must one be if he is to be allowed to
+put his hand on the wheel of history?
+One can say that three pre-eminent qualities are decisive for the politician: passion, a feeling of
+responsibility, and a sense of proportion.
+This means passion in the sense of matter-of-factness, of passionate devotion to a 'cause,' to the god or
+demon who is its overlord. It is not passion in the sense of that inner bearing which my late friend, Georg
+Simmel, used to designate as 'sterile excitation,' and which was peculiar especially to a certain type of
+Russian intellectual (by no means all of them!). It is an excitation that plays so great a part with our
+21
+intellectuals in this carnival we decorate with the proud name of 'revolution.' It is a 'romanticism of the
+intellectually interesting,' running into emptiness devoid of all feeling of objective responsibility.
+To be sure, mere passion, however genuinely felt, is not enough. It does not make a politician, unless
+passion as devotion to a 'cause' also makes responsibility to this cause the guiding star of action. And for
+this, a sense of proportion is needed. This is the decisive psychological quality of the politician: his ability
+to let realities work upon him with inner concentration and calmness. Hence his distance to things and men.
+'Lack of distance' per se is one of the deadly sins of every politician. It is one of those qualities the breeding
+of which will condemn the progeny of our intellectuals to political incapacity. For the problem is simply
+how can warm passion and a cool sense of proportion be forged together in one and the same soul? Politics
+is made with the head, not with other parts of the body or soul. And yet devotion to politics, if it is not to be
+frivolous intellectual play but rather genuinely human conduct, can be born and nourished from passion
+alone. However, that firm taming of the soul, which distinguishes the passionate politician and
+differentiates him from the 'sterilely excited' and mere political dilettante, is possible only through
+habituation to detachment in every sense of the word. The 'strength' of a political 'personality' means, in the
+first place, the possession of these qualities of passion, responsibility, and proportion.
+Therefore, daily and hourly, the politician inwardly has to overcome a quite trivial and all-too-human
+enemy: a quite vulgar vanity, the deadly enemy of all matter-of-fact devotion to a cause, and of all distance,
+in this case, of distance towards one's self.
+Vanity is a very widespread quality and perhaps nobody is entirely free from it. In academic and scholarly
+circles, vanity is a sort of occupational disease, but precisely with the scholar, vanity--however
+disagreeably it may express itself--is relatively harmless; in the sense that as a rule it does not disturb
+scientific enterprise. With the politician the case is quite different. He works with the striving for power as
+an unavoidable means. Therefore, 'power instinct,' as is usually said, belongs indeed to his normal qualities.
+The sin against the lofty spirit of his vocation, however, begins where this striving for power ceases to be
+objective and becomes purely personal self-intoxication, instead of exclusively entering the service of 'the
+cause.' For ultimately there are only two kinds of deadly sins in the field of politics: lack of objectivity and-
+-often but not always identical with it--irresponsibility. Vanity, the need personally to stand in the
+foreground as clearly as possible, strongly tempts the politician to commit one or both of these sins. This is
+more truly the case as the demagogue is compelled to count upon 'effect.' He therefore is constantly in
+danger of becoming an actor as well as taking lightly the responsibility for the outcome of his actions and
+of being concerned merely with the 'impression' he makes. His lack of objectivity tempts him to strive for
+the glamorous semblance of power rather than for actual power. His irresponsibility, however, suggests that
+he enjoy power merely for power's sake without a substantive purpose. Although, or rather just because,
+power is the unavoidable means, and striving for power is one of the driving forces of all politics, there is
+no more harmful distortion of political force than the parvenu-like braggart with power, and the vain selfreflection in the feeling of power, and in general every worship of power per se. The mere 'power politician'
+may get strong effects, but actually his work leads nowhere and is senseless. (Among us, too, an ardently
+promoted cult seeks to glorify him.) In this, the critics of 'power politics' are absolutely right. From the
+sudden inner collapse of typical representatives of this mentality, we can see what inner weakness and
+impotence hides behind this boastful but entirely empty gesture. It is a product of a shoddy and
+superficially blase attitude towards the meaning of human conduct; and it has no relation whatsoever to the
+knowledge of tragedy with which all action, but especially political action, is truly interwoven.
+The final result of political action often, no, even regularly, stands in completely inadequate and often even
+paradoxical relation to its original meaning. This is fundamental to all history, a point not to be proved in
+detail here. But because of this fact, the serving of a cause must not be absent if action is to have inner
+strength. Exactly what the cause, in the service of which the politician strives for power and uses power,
+looks like is a matter of faith. The politician may serve national, humanitarian, social, ethical, cultural,
+worldly, or religious ends. The politician may be sustained by a strong belief in 'progress'-- no matter in
+which sense--or he may coolly reject this kind of belief. He may claim to stand in the service of an 'idea' or,
+rejecting this in principle, he may want to serve external ends of everyday life. However, some kind of faith
+must always exist. Otherwise, it is absolutely true that the curse of the creature's worthlessness
+overshadows even the externally strongest political successes.
+22
+With the statement above we are already engaged in discussing the last problem that concerns us tonight:
+the ethos of politics as a 'cause.' What calling can politics fulfill quite independently of its goals within the
+total ethical economy of human conduct--which is, so to speak, the ethical locus where politics is at home?
+Here, to be sure, ultimate Weltanschauungen clash, world views among which in the end one has to make a
+choice. Let us resolutely tackle this problem, which recently has been opened again, in my view in a very
+wrong way.
+But first, let us free ourselves from a quite trivial falsification: namely, that ethics may first appear in a
+morally highly compromised role. Let us consider examples. Rarely will you find that a man whose love
+turns from one woman to another feels no need to legitimate this before himself by saying: she was not
+worthy of my love, or, she has disappointed me, or whatever other like 'reasons' exist. This is an attitude
+that, with a profound lack of chivalry, adds a fancied 'legitimacy' to the plain fact that he no longer loves
+her and that the woman has to bear it. By virtue of this 'legitimation,' the man claims a right for himself and
+besides causing the misfortune seeks to put her in the wrong. The successful amatory competitor proceeds
+exactly in the same way: namely, the opponent must be less worthy, otherwise he would not have lost out.
+It is no different, of course, if after a victorious war the victor in undignified self-righteousness claims, 'I
+have won because I was right.' Or, if somebody under the frightfulness of war collapses psychologically,
+and instead of simply saying it was just too much, he feels the need of legitimizing his war weariness to
+himself by substituting the feeling, 'I could not bear it because I had to fight for a morally bad cause.' And
+likewise with the defeated in war. Instead of searching like old women for the 'guilty one' after the war--in
+a situation in which the structure of society produced the war--everyone with a manly and controlled
+attitude would tell the enemy, 'We lost the war. You have won it. That is now all over. Now let us discuss
+what conclusions must be drawn according to the objective interests that came into play and what is the
+main thing in view of the responsibility towards the future which above all burdens the victor.' Anything
+else is undignified and will become a boomerang. A nation forgives if its interests have been damaged, but
+no nation forgives if its honor has been offended, especially by a bigoted self-righteousness. Every new
+document that comes to light after decades revives the undignified lamentations, the hatred and scorn,
+instead of allowing the war at its end to be buried, at least morally. This is possible only through objectivity
+and chivalry and above all only through dignity. But never is it possible through an 'ethic,' which in truth
+signifies a lack of dignity on both sides. Instead of being concerned about what the politician is interested
+in, the future and the responsibility towards the future, this ethic is concerned about politically sterile
+questions of past guilt, which are not to be settled politically. To act in this way is politically guilty, if such
+guilt exists at all. And it overlooks the unavoidable falsification of the whole problem, through very
+material interests: namely, the victor's interest in the greatest possible moral and material gain; the hopes of
+the defeated to trade in advantages through confessions of guilt. If anything is 'vulgar,' then, this is, and it is
+the result of this fashion of exploiting 'ethics' as a means of 'being in the right.'
+Now then, what relations do ethics and politics actually have? Have the two nothing whatever to do with
+one another, as has occasionally been said? Or, is the reverse true: that the ethic of political conduct is
+identical with that of any other conduct ? Occasionally an exclusive choice has been believed to exist
+between the two propositions--either the one or the other proposition must be correct. But is it true that any
+ethic of the world could establish commandments of identical content for erotic, business, familial, and
+official relations; for the relations to one's wife, to the green-grocer, the son, the competitor, the friend, the
+defendant? Should it really matter so little for the ethical demands on politics that politics operates with
+very special means, namely, power backed up by violence? Do we not see that the Bolshevik and the
+Spartacist ideologists bring about exactly the same results as any militaristic dictator just because they use
+this political means? In what but the persons of the power-holders and their dilettantism does the rule of the
+workers' and soldiers' councils differ from the rule of any power-holder of the old regime? In what way
+does the polemic of most representatives of the presumably new ethic differ from that of the opponents
+which they criticized, or the ethic of any other demagogues? In their noble intention, people will say.
+Good! But it is the means about which we speak here, and the adversaries, in complete subjective sincerity,
+claim, in the very same way, that their ultimate intentions are of lofty character. 'All they that take the
+sword shall perish with the sword' and fighting is everywhere fighting. Hence, the ethic of the Sermon on
+the Mount.
+23
+By the Sermon on the Mount, we mean the absolute ethic of the gospel, which is a more serious matter than
+those who are fond of quoting these commandments today believe. This ethic is no joking matter. The same
+holds for this ethic as has been said of causality in science: it is not a cab, which one can have stopped at
+one's pleasure; it is all or nothing. This is precisely the meaning of the gospel, if trivialities are not to result.
+Hence, for instance, it was said of the wealthy young man, 'He went away sorrowful: for he had great
+possessions.' The evangelist commandment, however, is unconditional and unambiguous: give what thou
+hast--absolutely everything. The politician will say that this is a socially senseless imposition as long as it is
+not carried out everywhere. Thus the politician upholds taxation, confiscatory taxation, outright
+confiscation; in a word, compulsion and regulation for all. The ethical commandment, however, is not at all
+concerned about that, and this unconcern is its essence. Or, take the example, 'turn the other cheek': This
+command is unconditional and does not question the source of the other's authority to strike. Except for a
+saint it is an ethic of indignity. This is it: one must be saintly in everything; at least in intention, one must
+live like Jesus, the apostles, St. Francis, and their like. Then this ethic makes sense and expresses a kind of
+dignity; otherwise it does not. For if it is said, in line with the acosmic ethic of love, 'Resist not him that is
+evil with force,' for the politician the reverse proposition holds, 'thou shalt resist evil by force,' or else you
+are responsible for the evil winning out. He who wishes to follow the ethic of the gospel should abstain
+from strikes, for strikes mean compulsion; he may join the company unions. Above all things, he should
+not talk of 'revolution.' After all, the ethic of the gospel does not wish to teach that civil war is the only
+legitimate war. The pacifist who follows the gospel will refuse to bear arms or will throw them down; in
+Germany this was the recommended ethical duty to end the war and therewith all wars. The politician
+would say the only sure means to discredit the war for all foreseeable time would have been a status quo
+peace. Then the nations would have questioned, what was this war for? And then the war would have been
+argued ad absurdum, which is now impossible. For the victors, at least for part of them, the war will have
+been politically profitable. And the responsibility for this rests on behavior that made all resistance
+impossible for us. Now, as a result of the ethics of absolutism, when the period of exhaustion will have
+passed, the peace will be discredited, not the war.
+Finally, let us consider the duty of truthfulness. For the absolute ethic it holds unconditionally. Hence the
+conclusion was reached to publish all documents, especially those placing blame on one's own country. On
+the basis of these one-sided publications the confessions of guilt followed --and they were one-sided,
+unconditional, and without regard to consequences. The politician will find that as a result truth will not be
+furthered but certainly obscured through abuse and unleashing of passion; only an all-round methodical
+investigation by non-partisans could bear fruit; any other procedure may have consequences for a nation
+that cannot be remedied for decades. But the absolute ethic just does not ask for 'consequences.' That is the
+decisive point.
+We must be clear about the fact that all ethically oriented conduct may be guided by one of two
+fundamentally differing and irreconcilably opposed maxims: conduct can be oriented to an 'ethic of
+ultimate ends' or to an 'ethic of responsibility.' This is not to say that an ethic of ultimate ends is identical
+with irresponsibility, or that an ethic of responsibility is identical with unprincipled opportunism. Naturally
+nobody says that. However, there is an abysmal contrast between conduct that follows the maxim of an
+ethic of ultimate ends--that is, in religious terms, 'The Christian does rightly and leaves the results with the
+Lord'--and conduct that follows the maxim of an ethic of responsibility, in which case one has to give an
+account of the foreseeable results of one's action.
+You may demonstrate to a convinced syndicalist, believing in an ethic of ultimate ends, that his action will
+result in increasing the opportunities of reaction, in increasing the oppression of his class, and obstructing
+its ascent--and you will not make the slightest impression upon him. If an action of good intent leads to bad
+results, then, in the actor's eyes, not he but the world, or the stupidity of other men, or God's will who made
+them thus, is responsible for the evil. However a man who believes in an ethic of responsibility takes
+account of precisely the average deficiencies of people; as Fichte has correctly said, he does not even have
+the right to presuppose their goodness and perfection. He does not feel in a position to burden others with
+the results of his own actions so far as he was able to foresee them; he will say: these results are ascribed to
+my action. The believer in an ethic of ultimate ends feels 'responsible' only for seeing to it that the flame of
+pure intentions is not quenched: for example, the flame of protesting against the injustice of the social
+24
+order. To rekindle the flame ever anew is the purpose of his quite irrational deeds, judged in view of their
+possible success. They are acts that can and shall have only exemplary value.
+But even herewith the problem is not yet exhausted. No ethics in the world can dodge the fact that in
+numerous instances the attainment of 'good' ends is bound to the fact that one must be willing to pay the
+price of using morally dubious means or at least dangerous ones--and facing the possibility or even the
+probability of evil ramifications. From no ethics in the world can it be concluded when and to what extent
+the ethically good purpose 'justifies' the ethically dangerous means and ramifications.
+The decisive means for politics is violence. You may see the extent of the tension between means and ends,
+when viewed ethically, from the following: as is generally known, even during the war the revolutionary
+socialists Zimmerwald faction) professed a principle that one might strikingly formulate: 'If we face the
+choice either of some more years of war and then revolution, or peace now and no revolution, we choose--
+some more years of war!' Upon the further question: 'What can this revolution bring about?' Every
+scientifically trained socialist would have had the answer: One cannot speak of a transition to an economy
+that in our sense could be called socialist; a bourgeois economy will re-emerge, merely stripped of the
+feudal elements and the dynastic vestiges. For this very modest result, they are willing to face 'some more
+years of war.' One may well say that even with a very robust socialist conviction one might reject a purpose
+that demands such means. With Bolshevism and Spartanism, and, in general, with any kind of
+revolutionary socialism, it is precisely the same thing. It is of course utterly ridiculous if the power
+politicians of the old regime are morally denounced for their use of the same means, however justified the
+rejection of their aims may be.
+The ethic of ultimate ends apparently must go to pieces on the problem of the justification of means by
+ends. As a matter of fact, logically it has only the possibility of rejecting all action that employs morally
+dangerous means--in theory! In the world of realities, as a rule, we encounter the ever-renewed experience
+that the adherent of an ethic of ultimate ends suddenly turns into a chiliastic prophet. Those, for example,
+who have just preached 'love against violence' now call for the use of force for the last violent deed, which
+would then lead to a state of affairs in which an violence is annihilated. In the same manner, our officers
+told the soldiers before every offensive: 'This will be the last one; this one will bring victory and therewith
+peace.' The proponent of an ethic of absolute ends cannot stand up under the ethical irrationality of the
+world. He is a cosmic-ethical 'rationalist.' Those of you who know Dostoievski will remember the scene of
+the 'Grand Inquisitor,' where the problem is poignantly unfolded. If one makes any concessions at all to the
+principle that the end justifies the means, it is not possible to bring an ethic of ultimate ends and an ethic of
+responsibility under one roof or to decree ethically which end should justify which means.
+My colleague, Mr. F. W. Forster, whom personally I highly esteem for his undoubted sincerity, but whom I
+reject unreservedly as a politician, believes it is possible to get around this difficulty by the simple thesis:
+'from good comes only good; but from evil only evil follows.' In that case this whole complex of questions
+would not exist. But it is rather astonishing that such a thesis could come to light two thousand five
+hundred years after the Upanishads. Not only the whole course of world history, but every frank
+examination of everyday experience points to the very opposite. The development of religions all over the
+world is determined by the fact that the opposite is true. The age-old problem of theodicy consists of the
+very question of how it is that a power which is said to be at once omnipotent and kind could have created
+such an irrational world of undeserved suffering, unpunished injustice, and hopeless stupidity. Either this
+power is not omnipotent or not kind, or, entirely different principles of compensation and reward govern
+our life--principles we may interpret metaphysically, or even principles that forever escape our
+comprehension This problem--the experience of the irrationality of the world--has been the driving force of
+all religious evolution. The Indian doctrine of karma, Persian dualism, the doctrine of original sin,
+predestination and the deus absconditus, all these have grown out of this experience. Also the early
+Christians knew full well the world is governed by demons and that he who lets himself in for politics, that
+is, for power and force as means, contracts with diabolical powers and for his action it is not true that good
+can follow only from good and evil only from evil, but that often the opposite is true. Anyone who fails to
+see this is, indeed, a political infant.
+25
+We are placed into various life-spheres, each of which is governed by different laws. Religious ethics have
+settled with this fact in different ways. Hellenic polytheism made sacrifices to Aphrodite and Hera alike, to
+Dionysus and to Apollo, and knew these gods were frequently in conflict with one another. The Hindu
+order of life made each of the different occupations an object of a specific ethical code, a Dharma, and
+forever segregated one from the other as castes, thereby placing them into a fixed hierarchy of rank. For the
+man born into it, there was no escape from it, lest he be twice-born in another life. The occupations were
+thus placed at varying distances from the highest religious goods of salvation. In this way, the caste order
+allowed for the possibility of fashioning the Dharma of each single caste, from those of the ascetics and
+Brahmins to those of the rogues and harlots, in accordance with the immanent and autonomous laws of
+their respective occupations. War and politics were also included. You will find war integrated into the
+totality of life-spheres in the Bhagavad-Gita, in the conversation between Krishna and Arduna. 'Do what
+must be done,' i.e. do that work which, according to the Dharma of the warrior caste and its rules, is
+obligatory and which, according to the purpose of the war, is objectively necessary. Hinduism believes that
+such conduct does not damage religious salvation but, rather, promotes it. When he faced the hero's death,
+the Indian warrior was always sure of Indra's heaven, just as was the Teuton warrior of Valhalla. The
+Indian hero would have despised Nirvana just as much as the Teuton would have sneered at the Christian
+paradise with its angels' choirs. This specialization of ethics allowed for the Indian ethic's quite unbroken
+treatment of politics by following politics' own laws and even radically enhancing this royal art.
+A really radical 'Machiavellianism,' in the popular sense of this word, is classically represented in Indian
+literature, in the Kautaliya Arthasastra (long before Christ, allegedly dating from Chandragupta's time). In
+contrast with this document Machiavelli's Principe is harmless. As is known in Catholic ethics--to which
+otherwise Professor Forster stands close-- the consilia evangelica are a special ethic for those endowed
+with the charisma of a holy life. There stands the monk who must not shed blood or strive for gain, and
+beside him stand the pious knight and the burgher, who are allowed to do so, the one to shed blood, the
+other to pursue gain. The gradation of ethics and its organic integration into the doctrine of salvation is less
+consistent than in India. According to the presuppositions of Christian faith, this could and had to be the
+case. The wickedness of the world stemming from original sin allowed with relative ease the integration of
+violence into ethics as a disciplinary means against sin and against the heretics who endangered the soul.
+However, the demands of the Sermon on the Mount, an acosmic ethic of ultimate ends, implied a natural
+law of absolute imperatives based upon religion. These absolute imperatives retained their revolutionizing
+force and they came upon the scene with elemental vigor during almost all periods of social upheaval. They
+produced especially the radical pacifist sects, one of which in Pennsylvania experimented in establishing a
+polity that renounced violence towards the outside. This experiment took a tragic course, inasmuch as with
+the outbreak of the War of Independence the Quakers could not stand up arms-in-hand for their ideals,
+which were those of the war.
+Normally, Protestantism, however, absolutely legitimated the state as a divine institution and hence
+violence as a means. Protestantism, especially, legitimated the authoritarian state. Luther relieved the
+individual of the ethical responsibility for war and transferred it to the authorities. To obey the authorities
+in matters other than those of faith could never constitute guilt. Calvinism in turn knew principled violence
+as a means of defending the faith; thus Calvinism knew the crusade, which was for Islam an element of life
+from the beginning. One sees that it is by no means a modern disbelief born from the hero worship of the
+Renaissance which poses the problem of political ethics. All religions have wrestled with it, with highly
+differing success, and after what has been said it could not be otherwise. It is the specific means of
+legitimate violence as such in the hand of human associations which determines the peculiarity of all
+ethical problems of politics.
+Whosoever contracts with violent means for whatever ends--and every politician does--is exposed to its
+specific consequences. This holds especially for the crusader, religious and revolutionary alike. Let us
+confidently take the present as an example. He who wants to establish absolute justice on earth by force
+requires a following, a human 'machine.' He must hold out the necessary internal and external premiums,
+heavenly or worldly reward, to this 'machine' or else the machine will not function. Under the conditions of
+the modern class struggle, the internal premiums consist of the satisfying of hatred and the craving for
+revenge; above all, resentment and the need for pseudo-ethical self-righteousness: the opponents must be
+slandered and accused of heresy. The external rewards are adventure, victory, booty, power, and spoils. The
+26
+leader and his success are completely dependent upon the functioning of his machine and hence not on his
+own motives. Therefore he also depends upon whether or not the premiums can be permanently granted to
+the following, that is, to the Red Guard, the informers, the agitators, whom he needs. What he actually
+attains under the conditions of his work is therefore not in his hand, but is prescribed to him by the
+following's motives, which, if viewed ethically, are predominantly base. The following can be harnessed
+only so long as an honest belief in his person and his cause inspires at least part of the following, probably
+never on earth even the majority. This belief, even when subjectively sincere, is in a very great number of
+cases really no more than an ethical 'legitimation of cravings for revenge, power, booty, and spoils. We
+shall not be deceived about this by verbiage; the materialist interpretation of history is no cab to be taken at
+will; it does not stop short of the promoters of revolutions. Emotional revolutionism is followed by the
+traditionalist routine of everyday life; the crusading leader and the faith itself fade away, or, what is even
+more effective, the faith becomes part of the conventional phraseology of political Philistines and banausic
+technicians. This development is especially rapid with struggles of faith because they are usually led or
+inspired by genuine leaders, that is, prophets of revolution. For here, as with every leader's machine, one of
+the conditions for success is the depersonalization and routinization, in short, the psychic proletarianization,
+in the interests of discipline. After coming to power the following of a crusader usually degenerates very
+easily into a quite common stratum of spoilsmen.
+Whoever wants to engage in politics at all, and especially in politics as a vocation, has to realize these
+ethical paradoxes. He must know that he is responsible for what may become of himself under the impact
+of these paradoxes. I repeat, he lets himself in for the diabolic forces lurking in all violence. The great
+virtuosi of acosmic love of humanity and goodness, whether stemming from Nazareth or Assisi or from
+Indian royal castles, have not operated with the political means of violence. Their kingdom was 'not of this
+world' and yet they worked and sill work in this world. The figures of Platon Karatajev and the saints of
+Dostoievski still remain their most adequate reconstructions. He who seeks the salvation of the soul, of his
+own and of others, should not seek it along the avenue of politics, for the quite different tasks of politics
+can only be solved by violence. The genius or demon of politics lives in an inner tension with the god of
+love, as well as with the Christian God as expressed by the church. This tension can at any time lead to an
+irreconcilable conflict. Men knew this even in the times of church rule. Time and again the papal interdict
+was placed upon Florence and at the time it meant a far more robust power for men and their salvation of
+soul than (to speak with Fichte) the 'cool approbation' of the Kantian ethical judgment. The burghers,
+however, fought the church-state. And it is with reference to such situations that Machiavelli in a beautiful
+passage, if I am not mistaken, of the History of Florence, has one of his heroes praise those citizens who
+deemed the greatness of their native city higher than the salvation of their souls.
+If one says 'the future of socialism' or 'international peace,' instead of native city or 'fatherland' (which at
+present may be a dubious value to some), then you face the problem as it stands now. Everything that is
+striven for through political action operating with violent means and following an ethic of responsibility
+endangers the 'salvation of the soul.' If, however, one chases after the ultimate good in a war of beliefs,
+following a pure ethic of absolute ends, then the goals may be damaged and discredited for generations,
+because responsibility for consequences is lacking, and two diabolic forces which enter the play remain
+unknown to the actor. These are inexorable and produce consequences for his action and even for his inner
+self, to which he must helplessly submit, unless he perceives them. The sentence: 'The devil is old; grow
+old to understand him!' does not refer to age in terms of chronological years. I have never permitted myself
+to lose out in a discussion through a reference to a date registered on a birth certificate; but the mere fact
+that someone is twenty years of age and that I am over fifty is no cause for me to think that this alone is an
+achievement before which I am overawed. Age is not decisive; what is decisive is the trained relentlessness
+in viewing the realities of life, and the ability to face such realities and to measure up to them inwardly.
+Surely, politics is made with the head, but it is certainly not made with the head alone. In this the
+proponents of an ethic of ultimate ends are right. One cannot prescribe to anyone whether he should follow
+an ethic of absolute ends or an ethic of responsibility, or when the one and when the other. One can say
+only this much: If in these times, which, in your opinion, are not times of 'sterile' excitation--excitation is
+not, after all, genuine passion--if now suddenly the Weltanschauungs politicians crop up en masse and pass
+the watchword, 'The world is stupid and base, not I,' 'The responsibility for the consequences does not fall
+upon me but upon the others whom I serve and whose stupidity or baseness I shall eradicate,' then I declare
+27
+frankly that I would first inquire into the degree of inner poise backing this ethic of ultimate ends. I am
+under the impression that in nine out of ten cases I deal with windbags who do not fully realize what they
+take upon themselves but who intoxicate themselves with romantic sensations. From a human point of view
+this is not very interesting to me, nor does it move me profoundly. However, it is immensely moving when
+a mature man-- no matter whether old or young in years--is aware of a responsibility for the consequences
+of his conduct and really feels such responsibility with heart and soul. He then acts by following an ethic of
+responsibility and somewhere he reaches the point where he says: 'Here I stand; I can do no other.' That is
+something genuinely human and moving. And every one of us who is not spiritually dead must realize the
+possibility of finding himself at some time in that position. In so far as this is true, an ethic of ultimate ends
+and an ethic of responsibility are not absolute contrasts but rather supplements) which only in unison
+constitute a genuine man--a man who can have the 'calling for politics.'
+Now then, ladies and gentlemen, let us debate this matter once more ten years from now. Unfortunately, for
+a whole series of reasons, I fear that by then the period of reaction will have long since broken over us. It is
+very probable that little of what many of you, and (I candidly confess) I too, have wished and hoped for
+will be fulfilled; little--perhaps not exactly nothing, but what to us at least seems little. This will not crush
+me, but surely it is an inner burden to realize it. Then, I wish I could see what has become of those of you
+who now feel yourselves to be genuinely 'principled' politicians and who share in the intoxication signified
+by this revolution. It would be nice if matters turned out in such a way that Shakespeare's Sonnet 102
+should hold
+Our love was new, and then but in the spring,
+When I was wont to greet it with my lays;
+As Philomel in summer's front doth sing,
+And stops her pipe in growth of riper days.
+But such is not the case. Not summer's bloom lies ahead of us, but rather a polar night of icy darkness and
+hardness, no matter which group may triumph externally now. Where there is nothing, not only the Kaiser
+but also the proletarian has lost his rights. When this night shall have slowly receded, who of those for
+whom spring apparently has bloomed so luxuriously will be alive? And what will have become of all of
+you by then? Will you be bitter or banausic? Will you simply and dully accept world and occupation? Or
+will the third and by no means the least frequent possibility be your lot: mystic flight from reality for those
+who are gifted for it, or--as is both frequent and unpleasant--for those who belabor themselves to follow
+this fashion? In every one of such cases, I shall draw the conclusion that they have not measured up to their
+own doings. They have not measured up to the world as it really is in its everyday routine. Objectively and
+actually, they have not experienced the vocation for politics in its deepest meaning, which they thought
+they had. They would have done better in simply cultivating plain brotherliness in personal relations. And
+for the rest--they should have gone soberly about their daily work.
+Politics is a strong and slow boring of hard boards. It takes both passion and perspective. Certainly all
+historical experience confirms the truth --that man would not have attained the possible unless time and
+again he had reached out for the impossible. But to do that a man must be a leader, and not only a leader
+but a hero as well, in a very sober sense of the word. And even those who are neither leaders nor heroes
+must arm themselves with that steadfastness of heart which can brave even the crumbling of all hopes. This
+is necessary right now, or else men will not be able to attain even that which is possible today. Only he has
+the calling for politics who is sure that he shall not crumble when the world from his point of view is too
+stupid or too base for what he wants to offer. Only he who in the face of all this can say 'In spite of all!' has
+the calling for politics.
